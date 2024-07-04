@@ -1,0 +1,158 @@
+AM科技
+Telegram交流群：https://t.me/AM_CLUBS
+YouTube频道：   / @am_club  
+Github频道：https://github.com/ansoncloud8
+免费订阅节点：https://worker.amcloud.filegear-sg.me...
+
+本期内容:
+全网最新完整全教程细讲,全免费、0成本部署节点,完成永久节点科学上网,4K\8K访问youtube、Telegram,解锁chatgpt、netflix、tiktok等网站,支持多订阅工具v2rayN、v2rayU、sing-box、clash-verge-rev、openclash、Quantumult X、小火箭、Hiddify等工具
+
+一、需要准备的前提资料
+1、申请注册免费CF帐号(邮箱就可以免费注册)
+https://cloudflare.com/
+
+2、申请注册免费域名帐号(邮箱就可以免费注册)
+https://dynv6.com/
+下面收费域名
+https://www.spaceship.com(数字域名大概0.6美元一年,10年大概6美元)
+
+3、关注YouTube频道(   / @am_club  )
+github下载部署文件(https://github.com/ansoncloud8)
+https://github.com/ansoncloud8/am-tunnel
+
+4、部署基础知识
+80系端口(HTTP)：80，8080，8880，2052，2082，2086，2095
+443系端口(HTTPS)：443，2053，2083，2087，2096，8443
+
+a)page部署
+自定义名称.pages.dev    443系端口         IP变动频繁
+pages自定义域名         443系端口         访问CF类网站poxyIP必须有效(落地ip)
+a)work部署
+自定义名称.workers.dev  80系端口          落地ip根据客户端所填优选ip决定
+workers自定义域名       80和443系端口     前置另外的代码可固定IP与变更地区(poxyIP)
+
+
+二、page部署方式
+1、上传文件形式部署,生成订阅地址
+
+2、直接github部署,生成订阅地址
+
+
+三、work部署方式
+前提说明:
+a)此部署方式,节点访问要通过科学代理才可以访问和订阅
+b)如果不需要代理就可以访问就要购买域名绑定到CF,域名要支持绑定CF的(.com、.net、.cn、.org、.xyz等一级域名都可以),大家根据自己情况是否要购买
+https://www.spaceship.com(数字域名大概0.6美元一年,10年大概6美元)
+
+1、编写代码部署,生成订阅地址
+
+2、(非必须)绑定域名,实现上面两种方式不需要代理就可以访问订阅节点(有条件者可以自己折腾下)
+
+
+四、(手机和电脑)订阅工具v2rayN、v2rayU、sing-box、clash-verge-rev、openclash、Quantumult X、小火箭、Hiddify等工具讲解
+https://github.com/2dust/v2rayN
+https://github.com/yanue/V2rayU
+https://github.com/SagerNet/sing-box
+https://github.com/clash-verge-rev/cl...
+https://github.com/LibNyanpasu/clash-...
+https://github.com/hiddify/hiddify-next
+
+1、mac电脑v2rayU、sing-box、Quantumult X、Hiddify等
+2、win电脑v2rayN、clash-verge-rev、Hiddify等
+3、苹果手机Quantumult X、sing-box、Hiddify等
+4、软路由openclash等
+5、安卓手机sing-box、Hiddify等
+
+-------小白根据上面步骤完成部署已可以实现0成本免费永久科学上网,下面是进阶阶段解锁chatgpt、netflix、tiktok等网站,爱折腾的同学可以往下看完------------
+
+五、代码变量动态设置增加安全和方便性
+前提说明:
+a)变量:UUID
+866853eb-5293-4f09-bf00-e13eb237c655
+https://1024tools.com/uuid
+b)变量:PROXYIP
+47.88.15.127
+ts.hpc.tw
+c)变量:ADDRESSESAPI
+https://raw.githubusercontent.com/ans...
+
+1、page部署方式动态设置变量
+
+
+2、work部署方式动态设置变量
+
+
+六、优选IP、优选反代IP
+前提准备资料:
+a)优选工具
+https://github.com/XIU2/CloudflareSpe...
+关于下载测速不可用/不稳定(0.00 MB/s)的情况说明及解决方法：https://github.com/XIU2/CloudflareSpe...
+b)IP获取方式
+第三方已优选:https://stock.hostmonit.com/CloudFlar... (提供针对联通、移动、电信三网优化的Cloudflare-CDN-IP，提供了丢包、延迟、速度和发布实际，可根据自己网络情况选取)
+官网:https://www.cloudflare-cn.com/ips/
+第三方:https://fofa.info
+c)临时邮箱
+https://tempmail.plus/
+d)IP检测工具
+https://ip.sb/
+https://ipdata.co/
+e)在线ping确认一下所有地址是否都是绿色都是正常可以访问的
+https://www.itdog.cn/http/
+
+
+
+---------------------------------------------
+自定义端口验证执行
+80系端口(HTTP)：80，8080，8880，2052，2082，2086，2095
+443系端口(HTTPS)：443，2053，2083，2087，2096，8443
+
+自定义名称.pages.dev    443系端口         IP变动频繁
+pages自定义域名         443系端口         访问CF类网站poxyIP必须有效(落地ip)
+a)work部署
+自定义名称.workers.dev  80系端口          落地ip根据客户端所填优选ip决定
+workers自定义域名       80和443系端口     前置另外的代码可固定IP与变更地区(poxyIP)
+
+SG：新加坡 
+HK：香港 
+KR：韩国 
+JP：日本 
+GB：英国 
+US：美国 
+TW：台湾
+搜索服务器为CF，端口是443，http响应头部信息包含forbidden，国家是日本，城市是*东京的IP，这里国家和城市根据需要修改（US、JP、KR、CN 等等）
+优选IP
+server=="cloudflare" && port=="443" && country=="US" 
+server=="cloudflare" && port=="2087" && region="HK"
+
+优选反代IP
+server!="cloudflare" && port=="443" && country=="US" 
+server!="cloudflare" && port=="2087" && region="HK"
+
+1、优选IP
+./CloudflareST -url https://speedtest.poorhub.pro/cf.7z -sl 5 -tp 443 -f ip.txt -o US-443-result.csv
+104.18.167.130
+
+2、优选反代IP
+./CloudflareST -f fd.txt -o fd-US-443-result.csv
+47.88.15.127
+
+34.36.44.3
+
+
+七、更换部署变量(ADDRESSESAPI)优选IP文件增加安全性
+1、免费CF的KV存储方式
+
+2、免费CF部署github私有仓库访问raw文件
+
+
+八、解锁chatgpt、netflix、tiktok等网站
+1、配置对应反代ip固定区域
+
+
+九、常见问题解决
+1、订阅工具测试全是-1
+http://www.gstatic.com/generate_204
+
+
+2、访问chatgpt、netflix、tiktok等网站出现不是私密连接(https)
+更换反代ip
