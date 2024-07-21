@@ -78,31 +78,22 @@ https://WARP.fxxk.dedyn.io/sub?key=[PrivateKey私钥]
 二，天城大佬
 
 ❇️Vless快速体验订阅地址：
-🌐https://alvless.comorg.us.kg/TCorg                                                                          
-🌐https://alvless.filegear-sg.me/TCorg
-🌐获取更多ADDAPI和ADDCSV地址：https://t.me/cncomorg
-❇️Vless自定义订阅详细使用方法：
-https://alvless.comorg.us.kg/sub?host=[你的Vless域名]&uuid=[你的UUID]&path=[你的ws路径]
-
-❇️Worker部署的Vless可以通过填入参数快速获取节点订阅信息
-https://alvless.comorg.us.kg/sub?host=[你的Worker域名]&uuid=[你的UUID]
-
-变量SUB = alvless.comorg.us.kg
-                                                                                                                                                        
-❇️Trojan快速体验订阅地址：                                                                                                    
-🌐https://altrojan.comorg.us.kg/TCLiu                                                                         
-🌐https://altrojan.filegear-sg.me/TCorg
-🌐获取更多ADDAPI和ADDCSV地址：https://t.me/cncomorg
-❇️Trojan自定义订阅详细使用方法：
-https://altrojan.comorg.us.kg/sub?host=[你的Trojan域名]&pw=[你的password]&path=[你的ws路径]
-
-❇️Worker部署的Trojan可以通过填入参数快速获取节点订阅信息
-https://altrojan.comorg.us.kg/sub?host=[你的Worker域名]&pw=[你的password]
-
-变量SUB = altrojan.comorg.us.kg
-
-订阅内容 base64、clash、singbox                                                                                            
-⚠️注意！Trojan协议流量已被GFW识别 (https://www.youtube.com/watch?v=Z_URro3bZqM)
+🌐https://tcvless.tcorg.us.kg/FL2024555
+🌐https://tcvless.comorg.filegear-sg.me/FL2024555
+❇️Trojan快速体验订阅地址： 
+🌐https://tctrojan.tcorg.us.kg/FL2024555
+🌐https://tctrojan.comorg.filegear-sg.me/FL2024555
+❇️Vless快速体验订阅变量：
+🌐SUB = tcvless.tcorg.us.kg
+🌐SUB = tcvless.comorg.filegear-sg.me
+❇️Trojan快速体验订阅变量： 
+🌐SUB = tctrojan.tcorg.us.kg
+🌐SUB = tctrojan.comorg.filegear-sg.me
+❇️快速订阅地址转换变量
+🌐SUBAPI = subapi.fxxk.dedyn.io
+❇️Cloudflare优选域名
+🌐ADD = aliyun.2096.us.kg                                                                                                
+❇️每天4次分别7时12时16时19时同步上传更新订阅器。
 
 
 
