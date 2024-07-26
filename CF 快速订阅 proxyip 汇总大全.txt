@@ -1,0 +1,243 @@
+一，CM大佬
+
+再次重申，使用自定义订阅会将您的节点信息提交至订阅器，关于节点隐私的问题请自行斟酌。
+请不要将节点信息明文放置在GitHub上！爬虫四溢
+实际使用时请去掉[ ]符号，目前订阅兼容小火箭，v2rayN，clash，singbox
+自定义订阅教程使用教程 https://youtu.be/OjqCKeEY7DQ&t=174s
+————————
+
+VLESS快速体验订阅地址：
+https://VLESS.fxxk.dedyn.io/auto
+
+VLESS自定义订阅详细使用方法：
+https://VLESS.fxxk.dedyn.io/sub?host=[你的VLESS域名]&uuid=[你的UUID]&path=[你的ws路径]
+
+Worker部署的VLESS可以通过填入以下参数后快速获取节点订阅信息
+https://VLESS.fxxk.dedyn.io/sub?host=[你的Worker域名]&uuid=[你的UUID]
+实际使用时请去掉[ ]符号，Worker部署优先使用自定义域！！！
+
+变量SUB = VLESS.fxxk.dedyn.io
+
+————————
+
+注意！Trojan协议流量已被识别 (https://www.youtube.com/watch?v=Z_URro3bZqM)，请自行斟酌！！！
+Trojan快速体验订阅地址：
+https://TG.CMLiussss.us.kg/auto
+
+Trojan自定义订阅详细使用方法：
+https://Trojan.fxxk.dedyn.io/sub?host=[你的Trojan域名]&pw=[你的password]&path=[你的ws路径]
+
+Worker部署的Trojan可以通过填入以下参数后快速获取节点订阅信息
+https://Trojan.fxxk.dedyn.io/sub?host=[你的Worker域名]&pw=[你的password]
+实际使用时请去掉[ ]符号，Worker部署优先使用自定义域！！！
+
+变量SUB = Trojan.fxxk.dedyn.io
+
+————————
+
+VMess快速体验订阅地址：
+https://VMess.fxxk.dedyn.io/auto
+
+VMess自定义订阅详细使用方法：
+https://VMess.fxxk.dedyn.io/sub?cc=[VMess服务名字]&host=[你的VMess域名]&uuid=[你的UUID]&path=[你的ws路径]&alterid=[额外ID]&security=[加密方式]
+
+*cc 非必填项，可能会影响使用在线订阅转换,推荐使用地区代号，例如HK、SG、US
+*alterid 非必填项，默认0
+*security 非必填项，默认auto
+
+快速订阅方式
+https://VMess.fxxk.dedyn.io/sub?host=[你的VMess域名]&uuid=[你的UUID]&path=[你的ws路径]
+
+实际使用时请去掉[ ]符号，注意worker不支持VMess！worker不支持VMess！worker不支持VMess！！！
+
+————————
+
+WARP快速体验订阅地址：
+https://WARP.fxxk.dedyn.io/auto
+
+WARP自定义订阅详细使用方法：
+https://WARP.fxxk.dedyn.io/sub?ip=[优选ip:端口]
+例如：https://WARP.fxxk.dedyn.io/sub?ip=162.159.195.179:987
+或
+
+https://WARP.fxxk.dedyn.io/sub?api=[优选IP.txt文件地址]
+例如：https://WARP.fxxk.dedyn.io/sub?api=https://raw.githubusercontent.com/cmliu/WARP2sub/main/ip.txt
+或
+
+https://WARP.fxxk.dedyn.io/sub??csv=[优选结果csv文件地址]
+例如：https://WARP.fxxk.dedyn.io/sub?csv=https://raw.githubusercontent.com/cmliu/WARP2sub/main/result.csv
+或
+
+https://WARP.fxxk.dedyn.io/sub?key=[PrivateKey私钥]
+例如：https://WARP.fxxk.dedyn.io/sub?key=iNw48fdfcf4wrc9i7A21gyFG09a3E3NPydvb2ysTQGY=
+
+
+二，天城大佬
+
+❇️Vless快速体验订阅地址：
+🌐https://alvless.comorg.us.kg/TCorg                                                                          
+🌐https://alvless.filegear-sg.me/TCorg
+🌐获取更多ADDAPI和ADDCSV地址：https://t.me/cncomorg
+❇️Vless自定义订阅详细使用方法：
+https://alvless.comorg.us.kg/sub?host=[你的Vless域名]&uuid=[你的UUID]&path=[你的ws路径]
+
+❇️Worker部署的Vless可以通过填入参数快速获取节点订阅信息
+https://alvless.comorg.us.kg/sub?host=[你的Worker域名]&uuid=[你的UUID]
+
+变量SUB = alvless.comorg.us.kg
+                                                                                                                                                        
+❇️Trojan快速体验订阅地址：                                                                                                    
+🌐https://altrojan.comorg.us.kg/TCLiu                                                                         
+🌐https://altrojan.filegear-sg.me/TCorg
+🌐获取更多ADDAPI和ADDCSV地址：https://t.me/cncomorg
+❇️Trojan自定义订阅详细使用方法：
+https://altrojan.comorg.us.kg/sub?host=[你的Trojan域名]&pw=[你的password]&path=[你的ws路径]
+
+❇️Worker部署的Trojan可以通过填入参数快速获取节点订阅信息
+https://altrojan.comorg.us.kg/sub?host=[你的Worker域名]&pw=[你的password]
+
+变量SUB = altrojan.comorg.us.kg
+
+订阅内容 base64、clash、singbox                                                                                            
+⚠️注意！Trojan协议流量已被GFW识别 (https://www.youtube.com/watch?v=Z_URro3bZqM)
+
+
+
+三， 3Kmfi6HP大佬 OTC大佬 
+
+3Kmfi6HP大佬  提供维护  (https://t.me/edtunnel/7462)（CM镜像站）
+
+快速体验订阅地址：
+https://3k.fxxk.dedyn.io/auto
+
+自定义订阅详细使用方法：
+https://3k.fxxk.dedyn.io/sub?host=[你的Vless域名]&uuid=[你的UUID]&path=[你的ws路径]
+
+Worker部署的Vless可以通过填入以下参数后快速获取节点订阅信息
+https://3k.fxxk.dedyn.io/sub?host=[你的Worker域名]&uuid=[你的UUID]
+
+变量SUB = 3k.fxxk.dedyn.io
+
+订阅内容 base64、clash、singbox
+
+————
+King大佬 提供维护 (https://t.me/wittychat_bot) （CM镜像站）
+
+快速体验订阅地址：
+https://king361.fxxk.dedyn.io/auto
+
+自定义订阅详细使用方法：
+https://king361.fxxk.dedyn.io/sub?host=[你的Vless域名]&uuid=[你的UUID]&path=[你的ws路径]
+
+Worker部署的Vless可以通过填入以下参数后快速获取节点订阅信息
+https://king361.fxxk.dedyn.io/sub?host=[你的Worker域名]&uuid=[你的UUID]
+
+变量SUB = king361.fxxk.dedyn.io
+
+订阅内容 base64、clash、singbox
+
+————
+OTC大佬 提供维护 (https://t.me/otc006_bot)
+
+快速体验订阅地址：
+https://sub.kaiche.tk/?token=auto
+
+订阅内容 base64、clash、singbox
+
+————
+实际使用时请去掉[ ]符号，Worker部署优先使用自定义域！！！
+
+
+
+四，Moist_R 提供维护
+
+欢乐时光群组 @mianfeicf
+
+快速体验订阅地址：
+https://moistr.freenods.sbs/mianfeicf
+Trojan协议订阅
+https://moist.freenods.sbs/Trojan
+自定义订阅详细使用方法：
+https://moistr.freenods.sbs/sub?host=[你的Vless域名]&uuid=[你的UUID]&path=[你的ws路径]
+最后更新：2024年6月8日07:45:49
+Worker部署的Vless可以通过填入以下参数后快速获取节点订阅信息
+https://moistr.freenods.sbs/sub?host=[你的Worker域名]&uuid=[你的UUID]
+
+订阅内容 base64、clash、singbox
+172.64.228.0
+104.20.27.0
+162.159.58.0
+此号段为联通专享
+CF官方IP的13个端口通用
+开启tls的端口：443、8443、2053、2083、2087、2096
+关闭tls的端口：80、8080、8880、2052、2082、2086、2095
+
+2a06:98c1:3101:f995:e0c3:30c4:cad:XXXX
+2606:4700:10:ddb5:7463:9830:1fc5:XXXX
+移动IPV6号段，地区香港，仅供娱乐，速度较慢
+XXXX可以改成1-9，a-f任意数字
+
+
+因ProxyIP代理域名使用量剧增，所以每日维护次数增加了，为了让频道聊天内容干净一些，
+所以ProxyIP代理域名的维护报告将不再进行推送。
+如需自定义ProxyIP代理域名的可以手动修改worker.js代码中的proxyIP字段对应的内容：
+
+proxyip.us.fxxk.dedyn.io 
+IP落地区域: 美国 维护频率: 12小时/次
+proxyip.sg.fxxk.dedyn.io 
+IP落地区域: 新加坡 维护频率: 12小时/次
+proxyip.jp.fxxk.dedyn.io 
+IP落地区域: 日本 维护频率: 12小时/次
+proxyip.hk.fxxk.dedyn.io
+IP落地区域: 香港 维护频率: 12小时/次
+proxyip.aliyun.fxxk.dedyn.io 
+IP落地区域: 阿里云 维护频率: 4小时/次
+proxyip.oracle.fxxk.dedyn.io 
+IP落地区域: 甲骨文 维护频率: 4小时/次
+proxyip.digitalocean.fxxk.dedyn.io 
+IP落地区域: 数码海 维护频率: 4小时/次
+
+再次重申！该域名只能作为ProxyIP代理域名使用！
+作为优选域名并不会起到加速的效果，其效果仅相当于官方直连。
+——
+第三方维护ProxyIP:
+my-telegram-is-herocore.onecf.eu.org Mingyu维护 (https://t.me/HeroCore)
+sg.ipdb.rr.nu
+nl.ipdb.rr.nu
+hk.ipdb.rr.nu
+jp.ipdb.rr.nu
+us.ipdb.rr.nu
+
+hk.cf.zhetengsha.eu.org 小一维护 (https://t.me/zhetengsha/1408)
+sg.cf.zhetengsha.eu.org
+us.cf.zhetengsha.eu.org
+jp.cf.zhetengsha.eu.org
+
+白嫖哥维护 (https://t.me/v2rayByCf/295)
+——
+部署最新cmliu/edgetunnel项目 (https://github.com/cmliu/edgetunnel/blob/main/_worker.js)_worker.js代码，
+let proxyIP = '';//字段留空可自动使用订阅内置ProxyIP代理域名。
+let sub = '200848a7-a9be-4546-bcc4-79b9bb10304a.cmliussss.workers.dev';//福利订阅参数，自行修改。
+——
+另提供CloudFlare官方优选域名:  cf.090227.xyz
+HTTP支持端口：80，8080，8880，2052，2082，2086，2095；
+HTTPS支持端口：443，2053，2083，2087，2096，8443。
+cf.cmliu.cf 域名已被freenom删除。
+
+天诚资源搜索福利群！
+每日ProxyIP代理域名维护完成！
+测速线路:微软云📶
+更新时间：每天6,12,16,19时，同步更新
+IP地区:US 🇮🇷 🇺🇲
+us.gitgoogle.com 更新成功:5.161.*.246 速度:94.47MB/s
+us.gitgoogle.com 更新成功:5.161.*.41 速度:92.26MB/s
+IP地区:Aliyun 🇭🇰 🇸🇬
+aliyun.gitgoogle.com 更新成功:47.254.*.110 速度:0.14MB/s
+aliyun.gitgoogle.com 更新成功:47.89.*.253 速度:0.06MB/s
+IP地区:Oracle 🇺🇲 🌎
+oracle.gitgoogle.com 更新成功:193.122.*.111 速度:61.65MB/s
+oracle.gitgoogle.com 更新成功:129.146.*.210 速度:46.84MB/s
+IP地区:Telegram收集 🇺🇲 🇬🇧 🇱🇺 🌎
+collect.gitgoogle.com 更新成功:193.122.*.111 速度:61.65MB/s
+collect.gitgoogle.com 更新成功:193.122.*.111 速度:46.84MB/s
+再次重申！该域名只能作为ProxyIP代理域名使用，作为优选域名并不会起到加速的效果，其效果仅相当于官方直连。
