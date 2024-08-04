@@ -1,251 +1,291 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.243.139.243,2053,true,HKG,Asia Pacific,Hong Kong,64 ms,22013 kB/s
-47.238.6.58,2053,true,HKG,Asia Pacific,Hong Kong,68 ms,20670 kB/s
-8.217.239.116,8443,true,HKG,Asia Pacific,Hong Kong,57 ms,18719 kB/s
-47.238.35.50,2096,true,HKG,Asia Pacific,Hong Kong,55 ms,17291 kB/s
-8.217.66.3,2096,true,HKG,Asia Pacific,Hong Kong,62 ms,17215 kB/s
-8.219.42.72,2096,true,SIN,Asia Pacific,Singapore,83 ms,14798 kB/s
-8.217.127.73,2053,true,HKG,Asia Pacific,Hong Kong,62 ms,14279 kB/s
-47.76.77.103,2053,true,HKG,Asia Pacific,Hong Kong,77 ms,12698 kB/s
-47.76.37.57,2083,true,HKG,Asia Pacific,Hong Kong,61 ms,11958 kB/s
-47.76.192.24,2083,true,HKG,Asia Pacific,Hong Kong,57 ms,11556 kB/s
-47.238.35.50,8443,true,HKG,Asia Pacific,Hong Kong,65 ms,11433 kB/s
-47.76.29.115,2053,true,HKG,Asia Pacific,Hong Kong,68 ms,11199 kB/s
-47.76.227.128,2053,true,HKG,Asia Pacific,Hong Kong,63 ms,10547 kB/s
-47.76.26.26,2053,true,HKG,Asia Pacific,Hong Kong,64 ms,10150 kB/s
-47.76.214.139,2053,true,HKG,Asia Pacific,Hong Kong,78 ms,9909 kB/s
-8.219.42.72,443,true,SIN,Asia Pacific,Singapore,82 ms,9826 kB/s
-47.236.180.24,2096,true,SIN,Asia Pacific,Singapore,227 ms,9173 kB/s
-47.238.6.58,2087,true,HKG,Asia Pacific,Hong Kong,73 ms,9150 kB/s
-8.219.104.37,2096,true,SIN,Asia Pacific,Singapore,226 ms,9077 kB/s
-47.238.40.58,2053,true,HKG,Asia Pacific,Hong Kong,66 ms,8602 kB/s
-47.236.180.24,2087,true,SIN,Asia Pacific,Singapore,227 ms,8535 kB/s
-47.236.180.51,2087,true,SIN,Asia Pacific,Singapore,233 ms,8398 kB/s
-47.76.37.57,2096,true,HKG,Asia Pacific,Hong Kong,57 ms,8355 kB/s
-47.76.26.26,2083,true,HKG,Asia Pacific,Hong Kong,59 ms,8011 kB/s
-47.238.40.58,2087,true,HKG,Asia Pacific,Hong Kong,58 ms,7888 kB/s
-47.236.254.120,8443,true,SIN,Asia Pacific,Singapore,214 ms,7566 kB/s
-8.217.127.73,2096,true,HKG,Asia Pacific,Hong Kong,62 ms,7533 kB/s
-8.210.65.1,2087,true,HKG,Asia Pacific,Hong Kong,58 ms,7317 kB/s
-47.76.214.139,2096,true,HKG,Asia Pacific,Hong Kong,59 ms,7159 kB/s
-8.219.220.88,2096,true,SIN,Asia Pacific,Singapore,217 ms,7116 kB/s
-47.245.118.70,2096,true,SIN,Asia Pacific,Singapore,231 ms,7015 kB/s
-47.238.131.39,2083,true,HKG,Asia Pacific,Hong Kong,58 ms,6926 kB/s
-8.210.65.1,2083,true,HKG,Asia Pacific,Hong Kong,57 ms,6914 kB/s
-8.210.34.188,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,6766 kB/s
-8.222.134.170,2087,true,SIN,Asia Pacific,Singapore,222 ms,6721 kB/s
-8.218.204.128,2053,true,HKG,Asia Pacific,Hong Kong,72 ms,6719 kB/s
-47.237.95.146,2083,true,SIN,Asia Pacific,Singapore,221 ms,6699 kB/s
-47.238.6.58,8443,true,HKG,Asia Pacific,Hong Kong,78 ms,6699 kB/s
-8.210.34.188,2087,true,HKG,Asia Pacific,Hong Kong,61 ms,6667 kB/s
-47.76.33.40,2053,true,HKG,Asia Pacific,Hong Kong,76 ms,6431 kB/s
-8.222.144.50,2087,true,SIN,Asia Pacific,Singapore,223 ms,6387 kB/s
-8.222.136.247,2087,true,SIN,Asia Pacific,Singapore,231 ms,6303 kB/s
-47.245.118.70,2053,true,SIN,Asia Pacific,Singapore,233 ms,6247 kB/s
-8.222.144.50,2083,true,SIN,Asia Pacific,Singapore,215 ms,6238 kB/s
-47.76.146.1,2053,true,HKG,Asia Pacific,Hong Kong,62 ms,6232 kB/s
-47.76.227.128,2087,true,HKG,Asia Pacific,Hong Kong,63 ms,6172 kB/s
-8.219.209.14,2083,true,SIN,Asia Pacific,Singapore,219 ms,6158 kB/s
-47.76.37.57,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,6109 kB/s
-8.219.177.205,8443,true,SIN,Asia Pacific,Singapore,220 ms,6028 kB/s
-47.76.37.57,2087,true,HKG,Asia Pacific,Hong Kong,61 ms,6021 kB/s
-8.222.134.170,2096,true,SIN,Asia Pacific,Singapore,221 ms,5913 kB/s
-47.245.118.70,2083,true,SIN,Asia Pacific,Singapore,224 ms,5883 kB/s
-8.219.99.169,2083,true,SIN,Asia Pacific,Singapore,217 ms,5824 kB/s
-47.245.118.70,2087,true,SIN,Asia Pacific,Singapore,231 ms,5799 kB/s
-47.237.95.156,2053,true,SIN,Asia Pacific,Singapore,215 ms,5772 kB/s
-47.237.125.8,2087,true,SIN,Asia Pacific,Singapore,220 ms,5702 kB/s
-47.236.170.225,2053,true,SIN,Asia Pacific,Singapore,218 ms,5653 kB/s
-47.236.9.152,2083,true,SIN,Asia Pacific,Singapore,218 ms,5637 kB/s
-47.76.77.103,2083,true,HKG,Asia Pacific,Hong Kong,99 ms,5635 kB/s
-47.76.33.40,2083,true,HKG,Asia Pacific,Hong Kong,70 ms,5592 kB/s
-8.219.191.110,2083,true,SIN,Asia Pacific,Singapore,214 ms,5569 kB/s
-8.219.120.87,2083,true,SIN,Asia Pacific,Singapore,230 ms,5516 kB/s
-8.222.204.128,443,true,SIN,Asia Pacific,Singapore,217 ms,5504 kB/s
-8.219.111.147,2087,true,SIN,Asia Pacific,Singapore,224 ms,5499 kB/s
-8.219.220.88,2087,true,SIN,Asia Pacific,Singapore,221 ms,5477 kB/s
-47.76.146.1,2083,true,HKG,Asia Pacific,Hong Kong,61 ms,5471 kB/s
-8.219.177.205,2096,true,SIN,Asia Pacific,Singapore,212 ms,5386 kB/s
-47.237.11.182,2096,true,SIN,Asia Pacific,Singapore,221 ms,5371 kB/s
-47.237.0.31,2053,true,SIN,Asia Pacific,Singapore,220 ms,5362 kB/s
-47.236.145.85,8443,true,SIN,Asia Pacific,Singapore,221 ms,5357 kB/s
-47.236.237.90,8443,true,SIN,Asia Pacific,Singapore,231 ms,5356 kB/s
-47.236.164.215,8443,true,SIN,Asia Pacific,Singapore,222 ms,5346 kB/s
-47.236.170.225,2096,true,SIN,Asia Pacific,Singapore,220 ms,5319 kB/s
-47.76.29.115,2083,true,HKG,Asia Pacific,Hong Kong,67 ms,5312 kB/s
-47.236.171.205,2053,true,SIN,Asia Pacific,Singapore,210 ms,5246 kB/s
-47.238.40.58,8443,true,HKG,Asia Pacific,Hong Kong,68 ms,5239 kB/s
-47.237.10.1,2083,true,SIN,Asia Pacific,Singapore,222 ms,5202 kB/s
-47.243.139.243,2096,true,HKG,Asia Pacific,Hong Kong,68 ms,5049 kB/s
-47.236.170.54,2096,true,SIN,Asia Pacific,Singapore,222 ms,5032 kB/s
-8.219.111.147,2083,true,SIN,Asia Pacific,Singapore,228 ms,5001 kB/s
-8.219.111.147,8443,true,SIN,Asia Pacific,Singapore,218 ms,4910 kB/s
-47.237.121.38,2053,true,SIN,Asia Pacific,Singapore,224 ms,4889 kB/s
-8.219.11.158,2087,true,SIN,Asia Pacific,Singapore,221 ms,4888 kB/s
-47.237.8.82,2096,true,SIN,Asia Pacific,Singapore,224 ms,4879 kB/s
-47.236.144.196,8443,true,SIN,Asia Pacific,Singapore,226 ms,4865 kB/s
-47.236.253.41,2087,true,SIN,Asia Pacific,Singapore,239 ms,4850 kB/s
-47.236.130.95,8443,true,SIN,Asia Pacific,Singapore,216 ms,4844 kB/s
-8.219.248.47,2053,true,SIN,Asia Pacific,Singapore,218 ms,4823 kB/s
-47.76.29.115,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,4752 kB/s
-47.236.237.90,2083,true,SIN,Asia Pacific,Singapore,229 ms,4706 kB/s
-47.236.253.41,2083,true,SIN,Asia Pacific,Singapore,227 ms,4703 kB/s
-47.236.117.48,2083,true,SIN,Asia Pacific,Singapore,217 ms,4639 kB/s
-47.236.167.231,8443,true,SIN,Asia Pacific,Singapore,224 ms,4612 kB/s
-47.236.253.41,2096,true,SIN,Asia Pacific,Singapore,221 ms,4573 kB/s
-47.76.227.128,2083,true,HKG,Asia Pacific,Hong Kong,67 ms,4557 kB/s
-47.236.232.148,2087,true,SIN,Asia Pacific,Singapore,230 ms,4555 kB/s
-47.76.146.1,2096,true,HKG,Asia Pacific,Hong Kong,64 ms,4525 kB/s
-47.236.232.148,8443,true,SIN,Asia Pacific,Singapore,231 ms,4505 kB/s
-47.236.130.95,2087,true,SIN,Asia Pacific,Singapore,224 ms,4498 kB/s
-47.237.8.82,2083,true,SIN,Asia Pacific,Singapore,225 ms,4494 kB/s
-47.236.145.85,2083,true,SIN,Asia Pacific,Singapore,222 ms,4479 kB/s
-47.236.164.215,2053,true,SIN,Asia Pacific,Singapore,223 ms,4463 kB/s
-47.236.117.48,8443,true,SIN,Asia Pacific,Singapore,210 ms,4460 kB/s
-47.76.26.26,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,4450 kB/s
-8.219.248.47,2083,true,SIN,Asia Pacific,Singapore,211 ms,4386 kB/s
-47.237.84.173,2096,true,SIN,Asia Pacific,Singapore,217 ms,4374 kB/s
-8.219.83.201,2087,true,SIN,Asia Pacific,Singapore,217 ms,4363 kB/s
-8.219.177.205,2053,true,SIN,Asia Pacific,Singapore,218 ms,4358 kB/s
-47.236.102.102,2053,true,SIN,Asia Pacific,Singapore,228 ms,4338 kB/s
-47.237.84.173,2087,true,SIN,Asia Pacific,Singapore,232 ms,4298 kB/s
-8.219.111.147,2053,true,SIN,Asia Pacific,Singapore,227 ms,4294 kB/s
-8.219.83.201,2053,true,SIN,Asia Pacific,Singapore,215 ms,4271 kB/s
-47.76.214.139,2087,true,HKG,Asia Pacific,Hong Kong,65 ms,4258 kB/s
-47.236.145.85,2087,true,SIN,Asia Pacific,Singapore,224 ms,4239 kB/s
-47.236.130.95,443,true,SIN,Asia Pacific,Singapore,214 ms,4239 kB/s
-47.236.237.90,2053,true,SIN,Asia Pacific,Singapore,227 ms,4236 kB/s
-47.236.237.90,2087,true,SIN,Asia Pacific,Singapore,216 ms,4236 kB/s
-47.243.139.243,8443,true,HKG,Asia Pacific,Hong Kong,68 ms,4210 kB/s
-8.219.248.47,2087,true,SIN,Asia Pacific,Singapore,216 ms,4184 kB/s
-47.237.84.173,2083,true,SIN,Asia Pacific,Singapore,236 ms,4178 kB/s
-8.219.120.87,2096,true,SIN,Asia Pacific,Singapore,224 ms,4130 kB/s
-47.76.192.24,2087,true,HKG,Asia Pacific,Hong Kong,60 ms,4021 kB/s
-47.236.253.41,2053,true,SIN,Asia Pacific,Singapore,233 ms,3992 kB/s
-47.237.125.8,2083,true,SIN,Asia Pacific,Singapore,225 ms,3970 kB/s
-8.217.127.73,8443,true,HKG,Asia Pacific,Hong Kong,64 ms,3966 kB/s
-47.237.8.82,8443,true,SIN,Asia Pacific,Singapore,225 ms,3956 kB/s
-47.76.254.36,80,true,SIN,Asia Pacific,Singapore,57 ms,3940 kB/s
-47.236.165.25,2083,true,SIN,Asia Pacific,Singapore,219 ms,3938 kB/s
-47.236.145.85,2053,true,SIN,Asia Pacific,Singapore,218 ms,3931 kB/s
-47.238.52.160,80,true,SIN,Asia Pacific,Singapore,69 ms,3921 kB/s
-47.236.130.95,2053,true,SIN,Asia Pacific,Singapore,223 ms,3909 kB/s
-8.219.191.110,2053,true,SIN,Asia Pacific,Singapore,217 ms,3890 kB/s
-8.219.86.200,8443,true,SIN,Asia Pacific,Singapore,216 ms,3877 kB/s
-47.237.121.38,8443,true,SIN,Asia Pacific,Singapore,215 ms,3864 kB/s
-47.238.36.250,80,true,SIN,Asia Pacific,Singapore,57 ms,3863 kB/s
-47.76.77.103,2096,true,HKG,Asia Pacific,Hong Kong,98 ms,3819 kB/s
-47.236.118.216,2083,true,SIN,Asia Pacific,Singapore,244 ms,3798 kB/s
-47.236.145.85,443,true,SIN,Asia Pacific,Singapore,224 ms,3798 kB/s
-47.236.118.216,2087,true,SIN,Asia Pacific,Singapore,229 ms,3791 kB/s
-47.237.94.140,2087,true,SIN,Asia Pacific,Singapore,233 ms,3770 kB/s
-47.76.243.157,80,true,SIN,Asia Pacific,Singapore,58 ms,3767 kB/s
-47.76.26.26,2096,true,HKG,Asia Pacific,Hong Kong,63 ms,3739 kB/s
-47.237.121.38,2087,true,SIN,Asia Pacific,Singapore,221 ms,3717 kB/s
-47.237.8.82,2087,true,SIN,Asia Pacific,Singapore,224 ms,3714 kB/s
-47.236.167.231,2053,true,SIN,Asia Pacific,Singapore,223 ms,3701 kB/s
-47.237.84.173,2053,true,SIN,Asia Pacific,Singapore,224 ms,3669 kB/s
-47.236.167.231,2083,true,SIN,Asia Pacific,Singapore,223 ms,3663 kB/s
-47.236.170.225,2083,true,SIN,Asia Pacific,Singapore,215 ms,3631 kB/s
-47.76.227.128,8443,true,HKG,Asia Pacific,Hong Kong,69 ms,3600 kB/s
-47.236.164.215,2083,true,SIN,Asia Pacific,Singapore,221 ms,3596 kB/s
-47.243.139.243,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,3565 kB/s
-47.237.92.26,2083,true,SIN,Asia Pacific,Singapore,222 ms,3554 kB/s
-8.218.204.128,2087,true,HKG,Asia Pacific,Hong Kong,70 ms,3531 kB/s
-47.239.12.227,80,true,SIN,Asia Pacific,Singapore,77 ms,3516 kB/s
-47.237.84.173,8443,true,SIN,Asia Pacific,Singapore,230 ms,3436 kB/s
-47.236.167.231,2087,true,SIN,Asia Pacific,Singapore,226 ms,3435 kB/s
-47.237.95.13,2083,true,SIN,Asia Pacific,Singapore,222 ms,3434 kB/s
-47.239.13.168,80,true,SIN,Asia Pacific,Singapore,56 ms,3397 kB/s
-47.237.11.182,2053,true,SIN,Asia Pacific,Singapore,222 ms,3364 kB/s
-47.236.145.85,2096,true,SIN,Asia Pacific,Singapore,220 ms,3126 kB/s
-8.210.34.188,2096,true,HKG,Asia Pacific,Hong Kong,55 ms,3125 kB/s
-47.236.117.48,2096,true,SIN,Asia Pacific,Singapore,221 ms,3080 kB/s
-47.236.117.48,443,true,SIN,Asia Pacific,Singapore,219 ms,3061 kB/s
-47.236.80.110,2087,true,SIN,Asia Pacific,Singapore,212 ms,3045 kB/s
-47.236.117.48,2087,true,SIN,Asia Pacific,Singapore,221 ms,3026 kB/s
-47.236.80.110,2096,true,SIN,Asia Pacific,Singapore,216 ms,3007 kB/s
-47.236.202.91,8443,true,SIN,Asia Pacific,Singapore,221 ms,3001 kB/s
-8.219.248.47,8443,true,SIN,Asia Pacific,Singapore,220 ms,3000 kB/s
-47.76.146.1,2087,true,HKG,Asia Pacific,Hong Kong,66 ms,2985 kB/s
-47.237.94.140,2083,true,SIN,Asia Pacific,Singapore,234 ms,2972 kB/s
-8.218.204.128,8443,true,HKG,Asia Pacific,Hong Kong,58 ms,2885 kB/s
-47.236.253.41,8443,true,SIN,Asia Pacific,Singapore,224 ms,2872 kB/s
-47.76.29.115,2096,true,HKG,Asia Pacific,Hong Kong,63 ms,2833 kB/s
-47.236.80.110,2053,true,SIN,Asia Pacific,Singapore,221 ms,2770 kB/s
-47.236.117.48,2053,true,SIN,Asia Pacific,Singapore,215 ms,2716 kB/s
-47.76.192.24,2053,true,HKG,Asia Pacific,Hong Kong,64 ms,2639 kB/s
-47.238.52.240,80,true,SIN,Asia Pacific,Singapore,64 ms,2604 kB/s
-47.76.33.40,2087,true,HKG,Asia Pacific,Hong Kong,83 ms,2473 kB/s
-47.236.80.110,2083,true,SIN,Asia Pacific,Singapore,223 ms,2422 kB/s
-47.76.77.103,8443,true,HKG,Asia Pacific,Hong Kong,89 ms,2332 kB/s
-47.236.125.62,2096,true,NRT,Asia Pacific,Tokyo,324 ms,2194 kB/s
-47.238.48.58,80,true,SIN,Asia Pacific,Singapore,61 ms,2019 kB/s
-47.76.33.40,8443,true,HKG,Asia Pacific,Hong Kong,68 ms,2016 kB/s
-47.236.170.225,8443,true,SIN,Asia Pacific,Singapore,212 ms,1980 kB/s
-47.242.59.216,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,1926 kB/s
-47.76.178.146,2053,true,HKG,Asia Pacific,Hong Kong,74 ms,1842 kB/s
-47.242.59.216,2087,true,HKG,Asia Pacific,Hong Kong,59 ms,1823 kB/s
-47.76.77.103,2087,true,HKG,Asia Pacific,Hong Kong,97 ms,1788 kB/s
-47.238.44.224,80,true,SIN,Asia Pacific,Singapore,60 ms,1769 kB/s
-47.76.204.76,2083,true,HKG,Asia Pacific,Hong Kong,53 ms,1734 kB/s
-47.236.202.91,2083,true,SIN,Asia Pacific,Singapore,220 ms,1653 kB/s
-47.236.202.91,2053,true,SIN,Asia Pacific,Singapore,230 ms,1407 kB/s
-47.236.180.51,2053,true,SIN,Asia Pacific,Singapore,217 ms,1340 kB/s
-47.76.32.108,2096,true,HKG,Asia Pacific,Hong Kong,78 ms,1286 kB/s
-47.236.180.51,8443,true,SIN,Asia Pacific,Singapore,220 ms,1253 kB/s
-47.76.204.76,2087,true,HKG,Asia Pacific,Hong Kong,69 ms,1212 kB/s
-47.236.80.110,8443,true,SIN,Asia Pacific,Singapore,229 ms,1190 kB/s
-47.236.202.91,2087,true,SIN,Asia Pacific,Singapore,234 ms,1145 kB/s
-8.218.132.209,80,true,SIN,Asia Pacific,Singapore,66 ms,1033 kB/s
-47.242.59.216,2096,true,HKG,Asia Pacific,Hong Kong,56 ms,1001 kB/s
-47.90.141.204,443,true,LAX,North America,Los Angeles,243 ms,953 kB/s
-47.242.202.230,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,850 kB/s
-47.76.178.146,2083,true,HKG,Asia Pacific,Hong Kong,76 ms,832 kB/s
-47.57.13.107,443,true,HKG,Asia Pacific,Hong Kong,70 ms,796 kB/s
-47.76.192.24,8443,true,HKG,Asia Pacific,Hong Kong,69 ms,758 kB/s
-47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,58 ms,753 kB/s
-47.76.32.108,2083,true,HKG,Asia Pacific,Hong Kong,58 ms,675 kB/s
-47.236.180.51,2083,true,SIN,Asia Pacific,Singapore,226 ms,630 kB/s
-47.76.49.246,2053,true,HKG,Asia Pacific,Hong Kong,70 ms,620 kB/s
-47.236.181.185,8443,true,SIN,Asia Pacific,Singapore,227 ms,611 kB/s
-47.236.180.51,2096,true,SIN,Asia Pacific,Singapore,222 ms,590 kB/s
-47.76.49.246,2083,true,HKG,Asia Pacific,Hong Kong,56 ms,447 kB/s
-47.236.202.91,2096,true,SIN,Asia Pacific,Singapore,221 ms,444 kB/s
-149.129.8.215,443,true,SJC,North America,San Jose,101 ms,422 kB/s
-47.76.204.76,2096,true,HKG,Asia Pacific,Hong Kong,66 ms,415 kB/s
-47.76.204.76,8443,true,HKG,Asia Pacific,Hong Kong,66 ms,358 kB/s
-47.57.245.232,443,true,SJC,North America,San Jose,66 ms,358 kB/s
-8.218.204.128,2096,true,HKG,Asia Pacific,Hong Kong,60 ms,342 kB/s
-8.217.127.73,2087,true,HKG,Asia Pacific,Hong Kong,68 ms,320 kB/s
-47.238.36.145,80,true,SIN,Asia Pacific,Singapore,60 ms,304 kB/s
-47.57.233.126,443,true,SJC,North America,San Jose,68 ms,284 kB/s
-8.210.207.214,2053,true,HKG,Asia Pacific,Hong Kong,62 ms,252 kB/s
-47.242.202.230,2096,true,HKG,Asia Pacific,Hong Kong,68 ms,246 kB/s
-8.210.207.214,2096,true,HKG,Asia Pacific,Hong Kong,65 ms,224 kB/s
-47.57.14.118,443,true,SJC,North America,San Jose,67 ms,221 kB/s
-47.76.32.108,2087,true,HKG,Asia Pacific,Hong Kong,68 ms,211 kB/s
-8.210.34.188,2083,true,HKG,Asia Pacific,Hong Kong,65 ms,77 kB/s
-8.218.11.90,8443,true,HKG,Asia Pacific,Hong Kong,64 ms,70 kB/s
-47.76.178.146,2096,true,HKG,Asia Pacific,Hong Kong,58 ms,45 kB/s
+47.76.29.115,2083,true,HKG,Asia Pacific,Hong Kong,71 ms,17773 kB/s
+47.238.6.58,2053,true,HKG,Asia Pacific,Hong Kong,76 ms,16438 kB/s
+47.243.255.224,2083,true,HKG,Asia Pacific,Hong Kong,64 ms,15590 kB/s
+47.76.33.40,2083,true,HKG,Asia Pacific,Hong Kong,66 ms,13844 kB/s
+8.219.42.72,2096,true,SIN,Asia Pacific,Singapore,91 ms,13134 kB/s
+8.217.121.207,2053,true,HKG,Asia Pacific,Hong Kong,60 ms,12682 kB/s
+47.76.26.26,8443,true,HKG,Asia Pacific,Hong Kong,67 ms,12591 kB/s
+47.242.202.230,2053,true,HKG,Asia Pacific,Hong Kong,60 ms,10845 kB/s
+47.76.26.26,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,10628 kB/s
+8.219.42.72,443,true,SIN,Asia Pacific,Singapore,83 ms,9181 kB/s
+47.76.213.245,2087,true,HKG,Asia Pacific,Hong Kong,60 ms,9038 kB/s
+47.76.213.245,2083,true,HKG,Asia Pacific,Hong Kong,67 ms,8630 kB/s
+47.238.6.58,2087,true,HKG,Asia Pacific,Hong Kong,75 ms,8601 kB/s
+8.219.104.37,2096,true,SIN,Asia Pacific,Singapore,230 ms,8458 kB/s
+47.243.42.219,2053,true,HKG,Asia Pacific,Hong Kong,58 ms,8318 kB/s
+47.237.92.26,2083,true,SIN,Asia Pacific,Singapore,259 ms,8217 kB/s
+47.236.254.120,8443,true,SIN,Asia Pacific,Singapore,216 ms,8183 kB/s
+47.236.130.95,8443,true,SIN,Asia Pacific,Singapore,221 ms,7851 kB/s
+47.76.213.245,2096,true,HKG,Asia Pacific,Hong Kong,60 ms,7815 kB/s
+47.237.94.140,2087,true,SIN,Asia Pacific,Singapore,279 ms,7793 kB/s
+47.236.9.152,2083,true,SIN,Asia Pacific,Singapore,233 ms,7765 kB/s
+47.237.0.31,2053,true,SIN,Asia Pacific,Singapore,226 ms,7732 kB/s
+47.76.26.26,2083,true,HKG,Asia Pacific,Hong Kong,61 ms,7726 kB/s
+47.237.8.82,2096,true,SIN,Asia Pacific,Singapore,227 ms,7524 kB/s
+47.237.94.140,2083,true,SIN,Asia Pacific,Singapore,220 ms,7387 kB/s
+8.218.1.163,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,7374 kB/s
+47.242.157.96,2053,true,HKG,Asia Pacific,Hong Kong,62 ms,7255 kB/s
+47.243.42.219,8443,true,HKG,Asia Pacific,Hong Kong,67 ms,7132 kB/s
+8.219.107.135,2083,true,SIN,Asia Pacific,Singapore,224 ms,7038 kB/s
+47.236.180.24,2096,true,SIN,Asia Pacific,Singapore,219 ms,6863 kB/s
+8.217.121.207,2087,true,HKG,Asia Pacific,Hong Kong,66 ms,6861 kB/s
+8.222.137.192,8443,true,SIN,Asia Pacific,Singapore,221 ms,6665 kB/s
+47.236.164.215,2083,true,SIN,Asia Pacific,Singapore,220 ms,6663 kB/s
+8.218.1.163,2083,true,HKG,Asia Pacific,Hong Kong,57 ms,6571 kB/s
+47.236.80.110,2053,true,SIN,Asia Pacific,Singapore,224 ms,6566 kB/s
+8.222.144.50,2083,true,SIN,Asia Pacific,Singapore,226 ms,6539 kB/s
+47.237.95.13,2083,true,SIN,Asia Pacific,Singapore,258 ms,6468 kB/s
+47.236.164.215,8443,true,SIN,Asia Pacific,Singapore,229 ms,6464 kB/s
+47.76.192.24,2083,true,HKG,Asia Pacific,Hong Kong,61 ms,6440 kB/s
+47.76.192.24,2053,true,HKG,Asia Pacific,Hong Kong,57 ms,6412 kB/s
+8.217.239.116,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,6345 kB/s
+47.76.29.115,2053,true,HKG,Asia Pacific,Hong Kong,70 ms,6340 kB/s
+8.218.11.90,8443,true,HKG,Asia Pacific,Hong Kong,75 ms,6309 kB/s
+47.76.146.1,2083,true,HKG,Asia Pacific,Hong Kong,61 ms,6306 kB/s
+8.222.144.50,2087,true,SIN,Asia Pacific,Singapore,225 ms,6283 kB/s
+8.222.249.190,2053,true,SIN,Asia Pacific,Singapore,214 ms,6239 kB/s
+47.76.29.115,2096,true,HKG,Asia Pacific,Hong Kong,68 ms,6203 kB/s
+8.219.111.175,2087,true,SIN,Asia Pacific,Singapore,221 ms,6162 kB/s
+47.243.42.219,2083,true,HKG,Asia Pacific,Hong Kong,67 ms,6159 kB/s
+47.237.95.146,2083,true,SIN,Asia Pacific,Singapore,220 ms,6121 kB/s
+47.236.180.24,2087,true,SIN,Asia Pacific,Singapore,223 ms,6104 kB/s
+8.222.137.192,2096,true,SIN,Asia Pacific,Singapore,233 ms,6017 kB/s
+47.236.171.205,2053,true,SIN,Asia Pacific,Singapore,218 ms,6011 kB/s
+47.236.170.225,2096,true,SIN,Asia Pacific,Singapore,222 ms,5970 kB/s
+47.236.117.48,8443,true,SIN,Asia Pacific,Singapore,216 ms,5946 kB/s
+47.237.10.1,2083,true,SIN,Asia Pacific,Singapore,240 ms,5786 kB/s
+47.236.165.25,2083,true,SIN,Asia Pacific,Singapore,254 ms,5769 kB/s
+47.237.121.38,2053,true,SIN,Asia Pacific,Singapore,232 ms,5747 kB/s
+47.237.125.8,2087,true,SIN,Asia Pacific,Singapore,222 ms,5720 kB/s
+47.238.40.58,2087,true,HKG,Asia Pacific,Hong Kong,65 ms,5698 kB/s
+47.237.84.173,2083,true,SIN,Asia Pacific,Singapore,228 ms,5640 kB/s
+8.210.207.214,2053,true,HKG,Asia Pacific,Hong Kong,60 ms,5639 kB/s
+8.222.134.170,2096,true,SIN,Asia Pacific,Singapore,215 ms,5630 kB/s
+47.236.144.196,8443,true,SIN,Asia Pacific,Singapore,225 ms,5611 kB/s
+8.219.122.55,2083,true,SIN,Asia Pacific,Singapore,225 ms,5525 kB/s
+8.210.207.214,2087,true,HKG,Asia Pacific,Hong Kong,61 ms,5511 kB/s
+47.236.118.216,2087,true,SIN,Asia Pacific,Singapore,215 ms,5509 kB/s
+8.219.11.158,2087,true,SIN,Asia Pacific,Singapore,215 ms,5490 kB/s
+8.219.111.147,8443,true,SIN,Asia Pacific,Singapore,236 ms,5475 kB/s
+47.237.86.185,2096,true,SIN,Asia Pacific,Singapore,222 ms,5471 kB/s
+8.222.136.247,2087,true,SIN,Asia Pacific,Singapore,219 ms,5439 kB/s
+8.219.122.55,2096,true,SIN,Asia Pacific,Singapore,228 ms,5407 kB/s
+47.237.84.173,2087,true,SIN,Asia Pacific,Singapore,227 ms,5403 kB/s
+47.236.237.90,2083,true,SIN,Asia Pacific,Singapore,221 ms,5402 kB/s
+8.219.122.55,8443,true,SIN,Asia Pacific,Singapore,231 ms,5399 kB/s
+8.219.111.147,2053,true,SIN,Asia Pacific,Singapore,226 ms,5362 kB/s
+47.76.29.115,2087,true,HKG,Asia Pacific,Hong Kong,69 ms,5355 kB/s
+47.237.8.82,2083,true,SIN,Asia Pacific,Singapore,222 ms,5345 kB/s
+8.219.248.47,2087,true,SIN,Asia Pacific,Singapore,219 ms,5341 kB/s
+47.237.8.82,8443,true,SIN,Asia Pacific,Singapore,221 ms,5320 kB/s
+47.237.84.173,2053,true,SIN,Asia Pacific,Singapore,219 ms,5311 kB/s
+8.219.122.55,2053,true,SIN,Asia Pacific,Singapore,235 ms,5280 kB/s
+47.237.125.8,2083,true,SIN,Asia Pacific,Singapore,224 ms,5214 kB/s
+47.238.40.58,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,5199 kB/s
+47.237.86.185,2083,true,SIN,Asia Pacific,Singapore,216 ms,5174 kB/s
+8.219.83.201,2053,true,SIN,Asia Pacific,Singapore,222 ms,5166 kB/s
+8.219.248.47,8443,true,SIN,Asia Pacific,Singapore,222 ms,5141 kB/s
+47.236.117.48,2096,true,SIN,Asia Pacific,Singapore,215 ms,5118 kB/s
+47.236.253.41,2087,true,SIN,Asia Pacific,Singapore,221 ms,5113 kB/s
+47.237.95.156,2087,true,SIN,Asia Pacific,Singapore,215 ms,5098 kB/s
+47.237.8.82,2087,true,SIN,Asia Pacific,Singapore,237 ms,5049 kB/s
+8.210.207.214,2096,true,HKG,Asia Pacific,Hong Kong,69 ms,5028 kB/s
+8.219.83.201,2087,true,SIN,Asia Pacific,Singapore,221 ms,5020 kB/s
+8.222.137.192,2083,true,SIN,Asia Pacific,Singapore,224 ms,5012 kB/s
+8.222.208.38,2053,true,SIN,Asia Pacific,Singapore,230 ms,4953 kB/s
+47.236.237.90,8443,true,SIN,Asia Pacific,Singapore,213 ms,4949 kB/s
+8.219.111.175,2053,true,SIN,Asia Pacific,Singapore,239 ms,4916 kB/s
+8.219.111.175,2096,true,SIN,Asia Pacific,Singapore,216 ms,4886 kB/s
+47.236.118.216,2083,true,SIN,Asia Pacific,Singapore,235 ms,4875 kB/s
+8.219.111.147,2087,true,SIN,Asia Pacific,Singapore,221 ms,4866 kB/s
+8.219.177.205,2053,true,SIN,Asia Pacific,Singapore,212 ms,4857 kB/s
+8.219.111.147,2083,true,SIN,Asia Pacific,Singapore,230 ms,4844 kB/s
+47.237.121.38,8443,true,SIN,Asia Pacific,Singapore,237 ms,4844 kB/s
+47.237.84.173,2096,true,SIN,Asia Pacific,Singapore,231 ms,4842 kB/s
+8.210.207.214,8443,true,HKG,Asia Pacific,Hong Kong,64 ms,4821 kB/s
+47.76.26.26,2087,true,HKG,Asia Pacific,Hong Kong,61 ms,4816 kB/s
+8.218.1.163,2096,true,HKG,Asia Pacific,Hong Kong,70 ms,4748 kB/s
+47.242.157.96,2087,true,HKG,Asia Pacific,Hong Kong,65 ms,4744 kB/s
+47.236.202.91,2087,true,SIN,Asia Pacific,Singapore,213 ms,4719 kB/s
+47.236.232.148,2087,true,SIN,Asia Pacific,Singapore,218 ms,4700 kB/s
+47.76.227.128,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,4681 kB/s
+8.219.86.200,8443,true,SIN,Asia Pacific,Singapore,220 ms,4665 kB/s
+47.237.8.82,2053,true,SIN,Asia Pacific,Singapore,222 ms,4664 kB/s
+8.222.134.170,2087,true,SIN,Asia Pacific,Singapore,216 ms,4662 kB/s
+47.236.253.41,2053,true,SIN,Asia Pacific,Singapore,224 ms,4639 kB/s
+47.236.164.215,2053,true,SIN,Asia Pacific,Singapore,217 ms,4632 kB/s
+8.219.113.232,2087,true,SIN,Asia Pacific,Singapore,239 ms,4616 kB/s
+8.210.65.1,2087,true,HKG,Asia Pacific,Hong Kong,55 ms,4616 kB/s
+47.236.117.48,443,true,SIN,Asia Pacific,Singapore,230 ms,4601 kB/s
+47.237.121.38,2087,true,SIN,Asia Pacific,Singapore,225 ms,4597 kB/s
+47.236.202.91,8443,true,SIN,Asia Pacific,Singapore,494 ms,4594 kB/s
+47.236.253.41,2096,true,SIN,Asia Pacific,Singapore,235 ms,4585 kB/s
+8.222.137.192,2087,true,SIN,Asia Pacific,Singapore,246 ms,4577 kB/s
+8.222.208.38,2083,true,SIN,Asia Pacific,Singapore,221 ms,4571 kB/s
+47.236.202.91,2053,true,SIN,Asia Pacific,Singapore,498 ms,4559 kB/s
+47.237.95.156,2053,true,SIN,Asia Pacific,Singapore,219 ms,4559 kB/s
+8.222.208.38,2087,true,SIN,Asia Pacific,Singapore,230 ms,4540 kB/s
+8.219.177.205,2096,true,SIN,Asia Pacific,Singapore,216 ms,4519 kB/s
+8.218.1.163,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,4516 kB/s
+47.236.237.90,2096,true,SIN,Asia Pacific,Singapore,221 ms,4515 kB/s
+47.236.102.102,2053,true,SIN,Asia Pacific,Singapore,234 ms,4511 kB/s
+47.236.117.48,2083,true,SIN,Asia Pacific,Singapore,223 ms,4415 kB/s
+8.222.208.38,2096,true,SIN,Asia Pacific,Singapore,213 ms,4373 kB/s
+47.236.145.85,443,true,SIN,Asia Pacific,Singapore,228 ms,4368 kB/s
+47.76.77.103,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,4315 kB/s
+47.237.11.182,2053,true,SIN,Asia Pacific,Singapore,223 ms,4304 kB/s
+47.236.237.90,2087,true,SIN,Asia Pacific,Singapore,232 ms,4300 kB/s
+47.236.167.231,2083,true,SIN,Asia Pacific,Singapore,228 ms,4291 kB/s
+47.76.33.40,2087,true,HKG,Asia Pacific,Hong Kong,102 ms,4285 kB/s
+47.237.84.173,8443,true,SIN,Asia Pacific,Singapore,222 ms,4246 kB/s
+8.219.177.205,8443,true,SIN,Asia Pacific,Singapore,211 ms,4239 kB/s
+47.236.130.95,2087,true,SIN,Asia Pacific,Singapore,225 ms,4235 kB/s
+47.236.80.110,8443,true,SIN,Asia Pacific,Singapore,211 ms,4197 kB/s
+47.236.130.95,443,true,SIN,Asia Pacific,Singapore,233 ms,4194 kB/s
+8.222.137.192,2053,true,SIN,Asia Pacific,Singapore,213 ms,4081 kB/s
+47.238.36.145,80,true,SIN,Asia Pacific,Singapore,56 ms,4068 kB/s
+47.76.33.40,2096,true,HKG,Asia Pacific,Hong Kong,91 ms,4012 kB/s
+47.236.202.91,2096,true,SIN,Asia Pacific,Singapore,501 ms,3986 kB/s
+47.76.178.146,2053,true,HKG,Asia Pacific,Hong Kong,56 ms,3984 kB/s
+47.238.52.160,80,true,SIN,Asia Pacific,Singapore,59 ms,3967 kB/s
+47.236.237.90,2053,true,SIN,Asia Pacific,Singapore,234 ms,3960 kB/s
+47.236.130.95,2053,true,SIN,Asia Pacific,Singapore,220 ms,3916 kB/s
+47.238.36.250,80,true,SIN,Asia Pacific,Singapore,55 ms,3913 kB/s
+47.76.254.36,80,true,SIN,Asia Pacific,Singapore,59 ms,3889 kB/s
+47.242.157.96,2083,true,HKG,Asia Pacific,Hong Kong,63 ms,3871 kB/s
+47.239.13.168,80,true,SIN,Asia Pacific,Singapore,55 ms,3864 kB/s
+47.236.117.48,2087,true,SIN,Asia Pacific,Singapore,241 ms,3859 kB/s
+8.219.111.175,8443,true,SIN,Asia Pacific,Singapore,219 ms,3845 kB/s
+8.219.193.202,2087,true,SIN,Asia Pacific,Singapore,222 ms,3836 kB/s
+47.236.167.231,2087,true,SIN,Asia Pacific,Singapore,228 ms,3833 kB/s
+8.217.66.3,2096,true,HKG,Asia Pacific,Hong Kong,61 ms,3831 kB/s
+47.236.253.41,2083,true,SIN,Asia Pacific,Singapore,230 ms,3828 kB/s
+47.236.117.48,2053,true,SIN,Asia Pacific,Singapore,227 ms,3809 kB/s
+47.236.167.231,8443,true,SIN,Asia Pacific,Singapore,221 ms,3807 kB/s
+8.219.248.47,2083,true,SIN,Asia Pacific,Singapore,224 ms,3798 kB/s
+47.236.253.41,8443,true,SIN,Asia Pacific,Singapore,225 ms,3787 kB/s
+8.218.1.163,8443,true,HKG,Asia Pacific,Hong Kong,69 ms,3743 kB/s
+8.218.132.209,80,true,SIN,Asia Pacific,Singapore,64 ms,3605 kB/s
+8.222.208.38,8443,true,SIN,Asia Pacific,Singapore,225 ms,3586 kB/s
+47.236.145.85,2087,true,SIN,Asia Pacific,Singapore,223 ms,3509 kB/s
+47.236.80.110,2083,true,SIN,Asia Pacific,Singapore,220 ms,3464 kB/s
+47.238.6.58,8443,true,HKG,Asia Pacific,Hong Kong,68 ms,3462 kB/s
+8.210.65.1,2083,true,HKG,Asia Pacific,Hong Kong,63 ms,3449 kB/s
+8.219.248.47,2053,true,SIN,Asia Pacific,Singapore,227 ms,3419 kB/s
+47.236.80.110,2096,true,SIN,Asia Pacific,Singapore,223 ms,3367 kB/s
+47.76.243.157,80,true,SIN,Asia Pacific,Singapore,56 ms,3317 kB/s
+47.245.118.70,2083,true,SIN,Asia Pacific,Singapore,244 ms,3236 kB/s
+47.76.77.103,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,3186 kB/s
+47.236.170.225,2053,true,SIN,Asia Pacific,Singapore,216 ms,3163 kB/s
+47.236.80.110,2087,true,SIN,Asia Pacific,Singapore,223 ms,3132 kB/s
+47.236.202.91,2083,true,SIN,Asia Pacific,Singapore,500 ms,3119 kB/s
+8.219.68.162,443,true,SIN,Asia Pacific,Singapore,221 ms,3100 kB/s
+47.236.180.51,2053,true,SIN,Asia Pacific,Singapore,226 ms,3017 kB/s
+47.243.42.219,2087,true,HKG,Asia Pacific,Hong Kong,68 ms,2904 kB/s
+8.219.193.202,2096,true,SIN,Asia Pacific,Singapore,234 ms,2783 kB/s
+47.242.157.96,2096,true,HKG,Asia Pacific,Hong Kong,73 ms,2710 kB/s
+47.236.145.85,2053,true,SIN,Asia Pacific,Singapore,223 ms,2626 kB/s
+47.236.167.231,2053,true,SIN,Asia Pacific,Singapore,222 ms,2545 kB/s
+47.236.180.51,2096,true,SIN,Asia Pacific,Singapore,214 ms,2449 kB/s
+47.236.180.51,2087,true,SIN,Asia Pacific,Singapore,234 ms,2364 kB/s
+47.245.118.70,2087,true,SIN,Asia Pacific,Singapore,229 ms,2361 kB/s
+47.76.178.146,2083,true,HKG,Asia Pacific,Hong Kong,59 ms,2329 kB/s
+47.242.202.230,2083,true,HKG,Asia Pacific,Hong Kong,59 ms,2322 kB/s
+47.238.44.224,80,true,SIN,Asia Pacific,Singapore,59 ms,2305 kB/s
+47.236.170.225,2083,true,SIN,Asia Pacific,Singapore,216 ms,2194 kB/s
+47.236.145.85,8443,true,SIN,Asia Pacific,Singapore,223 ms,2150 kB/s
+47.239.12.227,80,true,SIN,Asia Pacific,Singapore,63 ms,2137 kB/s
+47.76.214.139,2096,true,HKG,Asia Pacific,Hong Kong,88 ms,2120 kB/s
+47.236.145.85,2096,true,SIN,Asia Pacific,Singapore,232 ms,2078 kB/s
+47.236.180.51,2083,true,SIN,Asia Pacific,Singapore,219 ms,2069 kB/s
+47.242.157.96,8443,true,HKG,Asia Pacific,Hong Kong,69 ms,2066 kB/s
+47.236.180.51,8443,true,SIN,Asia Pacific,Singapore,238 ms,1996 kB/s
+47.242.202.230,2087,true,HKG,Asia Pacific,Hong Kong,53 ms,1974 kB/s
+47.76.33.40,2053,true,HKG,Asia Pacific,Hong Kong,109 ms,1958 kB/s
+47.238.35.50,2096,true,HKG,Asia Pacific,Hong Kong,60 ms,1895 kB/s
+8.217.127.73,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,1861 kB/s
+47.236.170.225,8443,true,SIN,Asia Pacific,Singapore,220 ms,1733 kB/s
+47.242.59.216,2096,true,HKG,Asia Pacific,Hong Kong,62 ms,1724 kB/s
+47.238.40.58,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,1564 kB/s
+8.210.156.6,2083,true,HKG,Asia Pacific,Hong Kong,70 ms,1539 kB/s
+47.76.26.26,2096,true,HKG,Asia Pacific,Hong Kong,62 ms,1533 kB/s
+47.76.214.139,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,1452 kB/s
+47.245.118.70,2053,true,SIN,Asia Pacific,Singapore,231 ms,1353 kB/s
+47.236.145.85,2083,true,SIN,Asia Pacific,Singapore,224 ms,1317 kB/s
+47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,62 ms,1167 kB/s
+47.242.59.216,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,1049 kB/s
+8.217.127.73,2087,true,HKG,Asia Pacific,Hong Kong,62 ms,1023 kB/s
+47.76.214.139,2087,true,HKG,Asia Pacific,Hong Kong,60 ms,969 kB/s
+47.76.32.108,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,924 kB/s
+8.217.127.73,2053,true,HKG,Asia Pacific,Hong Kong,64 ms,900 kB/s
+8.210.156.6,2053,true,HKG,Asia Pacific,Hong Kong,67 ms,867 kB/s
+47.76.204.76,2053,true,HKG,Asia Pacific,Hong Kong,55 ms,851 kB/s
+8.218.204.128,2053,true,HKG,Asia Pacific,Hong Kong,62 ms,848 kB/s
+47.245.118.70,2096,true,SIN,Asia Pacific,Singapore,237 ms,825 kB/s
+47.76.227.128,2083,true,HKG,Asia Pacific,Hong Kong,72 ms,812 kB/s
+47.76.146.1,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,809 kB/s
+47.76.77.103,2083,true,HKG,Asia Pacific,Hong Kong,70 ms,761 kB/s
+47.76.204.76,2083,true,HKG,Asia Pacific,Hong Kong,58 ms,745 kB/s
+8.218.204.128,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,685 kB/s
+47.76.77.103,2096,true,HKG,Asia Pacific,Hong Kong,68 ms,681 kB/s
+47.76.146.1,2053,true,HKG,Asia Pacific,Hong Kong,64 ms,672 kB/s
+8.210.207.214,2083,true,HKG,Asia Pacific,Hong Kong,67 ms,646 kB/s
+8.210.34.188,2053,true,HKG,Asia Pacific,Hong Kong,63 ms,643 kB/s
+47.76.77.103,8443,true,HKG,Asia Pacific,Hong Kong,64 ms,630 kB/s
+47.76.204.76,2096,true,HKG,Asia Pacific,Hong Kong,54 ms,627 kB/s
+47.76.227.128,2087,true,HKG,Asia Pacific,Hong Kong,61 ms,620 kB/s
+47.236.181.185,8443,true,SIN,Asia Pacific,Singapore,234 ms,614 kB/s
+47.76.37.57,8443,true,HKG,Asia Pacific,Hong Kong,85 ms,604 kB/s
+47.76.32.108,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,566 kB/s
+8.217.127.73,2096,true,HKG,Asia Pacific,Hong Kong,66 ms,565 kB/s
+47.76.49.246,8443,true,HKG,Asia Pacific,Hong Kong,66 ms,560 kB/s
+47.76.245.164,80,true,SIN,Asia Pacific,Singapore,65 ms,512 kB/s
+47.76.146.1,2096,true,HKG,Asia Pacific,Hong Kong,64 ms,480 kB/s
+149.129.8.215,443,true,SJC,North America,San Jose,95 ms,460 kB/s
+47.76.94.15,2053,true,HKG,Asia Pacific,Hong Kong,75 ms,454 kB/s
+47.238.48.58,80,true,SIN,Asia Pacific,Singapore,65 ms,428 kB/s
+47.76.192.24,8443,true,HKG,Asia Pacific,Hong Kong,72 ms,380 kB/s
+47.76.204.76,8443,true,HKG,Asia Pacific,Hong Kong,54 ms,365 kB/s
+47.76.227.128,8443,true,HKG,Asia Pacific,Hong Kong,67 ms,358 kB/s
+47.76.204.76,2087,true,HKG,Asia Pacific,Hong Kong,59 ms,358 kB/s
+8.210.34.188,8443,true,HKG,Asia Pacific,Hong Kong,66 ms,326 kB/s
+47.76.37.57,2083,true,HKG,Asia Pacific,Hong Kong,129 ms,316 kB/s
+47.57.245.232,443,true,SJC,North America,San Jose,67 ms,310 kB/s
+47.238.52.240,80,true,SIN,Asia Pacific,Singapore,59 ms,307 kB/s
+47.76.146.1,8443,true,HKG,Asia Pacific,Hong Kong,69 ms,297 kB/s
+47.57.13.107,443,true,HKG,Asia Pacific,Hong Kong,74 ms,294 kB/s
+47.76.37.57,2096,true,HKG,Asia Pacific,Hong Kong,81 ms,262 kB/s
+47.242.202.230,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,243 kB/s
+8.210.34.188,2083,true,HKG,Asia Pacific,Hong Kong,58 ms,205 kB/s
+8.210.34.188,2096,true,HKG,Asia Pacific,Hong Kong,64 ms,182 kB/s
+8.218.204.128,2096,true,HKG,Asia Pacific,Hong Kong,68 ms,179 kB/s
+47.242.202.230,2096,true,HKG,Asia Pacific,Hong Kong,56 ms,176 kB/s
+47.57.14.118,443,true,SJC,North America,San Jose,68 ms,172 kB/s
+47.76.49.246,2087,true,HKG,Asia Pacific,Hong Kong,73 ms,169 kB/s
+8.222.204.128,443,true,SIN,Asia Pacific,Singapore,215 ms,157 kB/s
+8.210.34.188,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,153 kB/s
+8.210.156.6,2087,true,HKG,Asia Pacific,Hong Kong,65 ms,150 kB/s
+47.76.32.108,2087,true,HKG,Asia Pacific,Hong Kong,65 ms,150 kB/s
+47.76.37.57,2087,true,HKG,Asia Pacific,Hong Kong,98 ms,125 kB/s
+8.218.204.128,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,112 kB/s
+47.238.35.50,8443,true,HKG,Asia Pacific,Hong Kong,58 ms,54 kB/s
 8.210.92.27,443,true,HKG,Asia Pacific,Hong Kong,57 ms,14 kB/s
-47.76.49.246,8443,true,HKG,Asia Pacific,Hong Kong,78 ms,9 kB/s
-8.210.207.214,2083,true,HKG,Asia Pacific,Hong Kong,68 ms,2 kB/s
-8.219.220.88,2053,true,SIN,Asia Pacific,Singapore,239 ms,0 kB/s
-8.210.207.214,2087,true,HKG,Asia Pacific,Hong Kong,59 ms,0 kB/s
-47.76.146.1,8443,true,HKG,Asia Pacific,Hong Kong,69 ms,0 kB/s
-47.250.176.199,80,true,SIN,Asia Pacific,Singapore,168 ms,0 kB/s
-47.76.204.76,2053,true,HKG,Asia Pacific,Hong Kong,52 ms,0 kB/s
-47.76.178.146,2087,true,HKG,Asia Pacific,Hong Kong,63 ms,0 kB/s
-8.210.34.188,8443,true,HKG,Asia Pacific,Hong Kong,73 ms,0 kB/s
-47.237.8.82,2053,true,SIN,Asia Pacific,Singapore,224 ms,0 kB/s
-47.237.95.156,2087,true,SIN,Asia Pacific,Singapore,219 ms,0 kB/s
-47.76.178.146,8443,true,HKG,Asia Pacific,Hong Kong,59 ms,0 kB/s
-8.210.207.214,8443,true,HKG,Asia Pacific,Hong Kong,55 ms,0 kB/s
-47.250.153.55,80,true,SIN,Asia Pacific,Singapore,157 ms,0 kB/s
-47.76.33.40,2096,true,HKG,Asia Pacific,Hong Kong,73 ms,0 kB/s
+47.250.50.53,80,true,SIN,Asia Pacific,Singapore,157 ms,11 kB/s
+47.76.49.246,2083,true,HKG,Asia Pacific,Hong Kong,89 ms,4 kB/s
+47.76.49.246,2096,true,HKG,Asia Pacific,Hong Kong,75 ms,0 kB/s
+47.76.94.15,2087,true,HKG,Asia Pacific,Hong Kong,65 ms,0 kB/s
+47.76.33.40,8443,true,HKG,Asia Pacific,Hong Kong,134 ms,0 kB/s
+47.236.170.54,2096,true,SIN,Asia Pacific,Singapore,222 ms,0 kB/s
+47.76.49.246,2053,true,HKG,Asia Pacific,Hong Kong,75 ms,0 kB/s
 47.76.214.139,8443,true,HKG,Asia Pacific,Hong Kong,60 ms,0 kB/s
-47.236.237.90,2096,true,SIN,Asia Pacific,Singapore,220 ms,0 kB/s
-47.76.26.26,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,0 kB/s
-47.76.245.164,80,true,SIN,Asia Pacific,Singapore,60 ms,0 kB/s
-47.76.32.108,8443,true,HKG,Asia Pacific,Hong Kong,74 ms,0 kB/s
+47.236.5.223,2096,true,SIN,Asia Pacific,Singapore,233 ms,0 kB/s
+47.250.155.143,80,true,SIN,Asia Pacific,Singapore,167 ms,0 kB/s
+8.219.111.175,2083,true,SIN,Asia Pacific,Singapore,228 ms,0 kB/s
+47.236.232.148,8443,true,SIN,Asia Pacific,Singapore,229 ms,0 kB/s
+47.250.149.42,80,true,SIN,Asia Pacific,Singapore,160 ms,0 kB/s
+47.243.206.150,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,0 kB/s
+47.242.59.216,8443,true,HKG,Asia Pacific,Hong Kong,71 ms,0 kB/s
+47.236.5.223,2087,true,SIN,Asia Pacific,Singapore,234 ms,0 kB/s
+47.76.32.108,2083,true,HKG,Asia Pacific,Hong Kong,76 ms,0 kB/s
+47.76.32.108,2096,true,HKG,Asia Pacific,Hong Kong,60 ms,0 kB/s
