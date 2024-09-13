@@ -1,188 +1,227 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.218.211.17,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,18721 kB/s
-47.76.233.67,2053,true,HKG,Asia Pacific,Hong Kong,73 ms,17285 kB/s
-47.76.225.255,2053,true,HKG,Asia Pacific,Hong Kong,69 ms,15896 kB/s
-47.76.77.103,2087,true,HKG,Asia Pacific,Hong Kong,62 ms,14315 kB/s
-47.242.107.109,2096,true,HKG,Asia Pacific,Hong Kong,56 ms,11880 kB/s
-47.242.107.109,2083,true,HKG,Asia Pacific,Hong Kong,72 ms,11312 kB/s
-47.238.43.79,2096,true,HKG,Asia Pacific,Hong Kong,60 ms,10858 kB/s
-47.76.225.255,2083,true,HKG,Asia Pacific,Hong Kong,66 ms,10778 kB/s
-47.76.233.67,2096,true,HKG,Asia Pacific,Hong Kong,55 ms,9707 kB/s
-8.218.211.17,8443,true,HKG,Asia Pacific,Hong Kong,60 ms,9616 kB/s
-47.236.232.148,8443,true,SIN,Asia Pacific,Singapore,223 ms,8926 kB/s
-47.236.254.120,2087,true,SIN,Asia Pacific,Singapore,219 ms,8824 kB/s
-47.76.233.67,8443,true,HKG,Asia Pacific,Hong Kong,58 ms,8743 kB/s
-8.219.110.81,2096,true,SIN,Asia Pacific,Singapore,220 ms,8642 kB/s
-47.76.189.102,2053,true,HKG,Asia Pacific,Hong Kong,66 ms,8573 kB/s
-47.237.95.146,2083,true,SIN,Asia Pacific,Singapore,223 ms,8398 kB/s
-47.76.189.102,2096,true,HKG,Asia Pacific,Hong Kong,62 ms,8371 kB/s
-8.219.110.81,2083,true,SIN,Asia Pacific,Singapore,221 ms,8319 kB/s
-47.76.189.102,2083,true,HKG,Asia Pacific,Hong Kong,64 ms,8297 kB/s
-47.76.225.255,2096,true,HKG,Asia Pacific,Hong Kong,70 ms,7874 kB/s
-47.236.168.17,2053,true,SIN,Asia Pacific,Singapore,230 ms,7869 kB/s
-47.76.98.98,2083,true,HKG,Asia Pacific,Hong Kong,57 ms,7816 kB/s
-47.236.167.231,8443,true,SIN,Asia Pacific,Singapore,226 ms,7683 kB/s
-47.236.254.120,8443,true,SIN,Asia Pacific,Singapore,218 ms,7602 kB/s
-47.236.10.182,2053,true,SIN,Asia Pacific,Singapore,227 ms,7537 kB/s
-47.236.10.182,2096,true,SIN,Asia Pacific,Singapore,228 ms,7494 kB/s
-47.76.98.98,8443,true,HKG,Asia Pacific,Hong Kong,56 ms,7119 kB/s
-8.222.193.65,2083,true,SIN,Asia Pacific,Singapore,212 ms,6860 kB/s
-47.236.232.148,2087,true,SIN,Asia Pacific,Singapore,227 ms,6828 kB/s
-8.222.193.65,2053,true,SIN,Asia Pacific,Singapore,219 ms,6805 kB/s
-8.210.3.24,2053,true,HKG,Asia Pacific,Hong Kong,60 ms,6733 kB/s
-47.76.233.67,2087,true,HKG,Asia Pacific,Hong Kong,58 ms,6711 kB/s
-47.236.180.51,2096,true,SIN,Asia Pacific,Singapore,229 ms,6342 kB/s
-47.236.10.100,8443,true,SIN,Asia Pacific,Singapore,232 ms,6301 kB/s
-8.210.174.156,8443,true,HKG,Asia Pacific,Hong Kong,64 ms,6274 kB/s
-47.76.189.102,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,6200 kB/s
-8.210.174.156,2053,true,HKG,Asia Pacific,Hong Kong,76 ms,6160 kB/s
-47.236.180.24,2087,true,SIN,Asia Pacific,Singapore,223 ms,6159 kB/s
-47.238.43.79,8443,true,HKG,Asia Pacific,Hong Kong,66 ms,6149 kB/s
-47.236.10.182,8443,true,SIN,Asia Pacific,Singapore,236 ms,6050 kB/s
-47.236.172.95,8443,true,SIN,Asia Pacific,Singapore,224 ms,5961 kB/s
-47.237.8.82,2096,true,SIN,Asia Pacific,Singapore,214 ms,5958 kB/s
-47.243.60.150,2053,true,HKG,Asia Pacific,Hong Kong,58 ms,5957 kB/s
-8.219.194.170,8443,true,SIN,Asia Pacific,Singapore,221 ms,5903 kB/s
-8.219.194.170,2083,true,SIN,Asia Pacific,Singapore,225 ms,5876 kB/s
-47.236.10.182,2083,true,SIN,Asia Pacific,Singapore,249 ms,5781 kB/s
-8.219.194.170,2096,true,SIN,Asia Pacific,Singapore,218 ms,5778 kB/s
-47.237.95.13,2083,true,SIN,Asia Pacific,Singapore,220 ms,5623 kB/s
-47.76.98.98,2053,true,HKG,Asia Pacific,Hong Kong,64 ms,5603 kB/s
-47.236.167.231,2083,true,SIN,Asia Pacific,Singapore,222 ms,5541 kB/s
-8.222.204.128,443,true,SIN,Asia Pacific,Singapore,215 ms,5541 kB/s
-47.237.8.82,2087,true,SIN,Asia Pacific,Singapore,218 ms,5482 kB/s
-8.222.193.65,443,true,SIN,Asia Pacific,Singapore,218 ms,5447 kB/s
-47.236.180.51,2053,true,SIN,Asia Pacific,Singapore,226 ms,5384 kB/s
-47.236.180.24,2096,true,SIN,Asia Pacific,Singapore,215 ms,5251 kB/s
-47.76.225.255,2087,true,HKG,Asia Pacific,Hong Kong,66 ms,5223 kB/s
-47.236.130.95,2053,true,SIN,Asia Pacific,Singapore,218 ms,5222 kB/s
-8.210.3.24,2083,true,HKG,Asia Pacific,Hong Kong,63 ms,5026 kB/s
-47.76.225.255,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,5025 kB/s
-47.237.0.31,2053,true,SIN,Asia Pacific,Singapore,223 ms,4918 kB/s
-8.219.66.156,2096,true,NRT,Asia Pacific,Tokyo,319 ms,4857 kB/s
-47.236.10.182,2087,true,SIN,Asia Pacific,Singapore,237 ms,4792 kB/s
-47.236.80.110,8443,true,SIN,Asia Pacific,Singapore,236 ms,4666 kB/s
-47.237.8.82,2053,true,SIN,Asia Pacific,Singapore,219 ms,4629 kB/s
-47.237.94.140,2087,true,SIN,Asia Pacific,Singapore,226 ms,4626 kB/s
-47.237.125.8,2083,true,SIN,Asia Pacific,Singapore,226 ms,4610 kB/s
-47.236.167.231,2087,true,SIN,Asia Pacific,Singapore,227 ms,4607 kB/s
-47.237.8.82,2083,true,SIN,Asia Pacific,Singapore,222 ms,4601 kB/s
-47.76.189.102,2087,true,HKG,Asia Pacific,Hong Kong,70 ms,4571 kB/s
-8.222.193.65,2096,true,SIN,Asia Pacific,Singapore,218 ms,4558 kB/s
-47.236.149.107,8443,true,SIN,Asia Pacific,Singapore,221 ms,4535 kB/s
-47.236.170.225,2053,true,SIN,Asia Pacific,Singapore,228 ms,4474 kB/s
-47.243.60.150,2083,true,HKG,Asia Pacific,Hong Kong,60 ms,4462 kB/s
-47.236.102.102,2053,true,SIN,Asia Pacific,Singapore,252 ms,4436 kB/s
-47.243.91.58,2096,true,HKG,Asia Pacific,Hong Kong,65 ms,4431 kB/s
-8.219.66.156,2053,true,NRT,Asia Pacific,Tokyo,306 ms,4409 kB/s
-47.237.82.15,2096,true,SIN,Asia Pacific,Singapore,221 ms,4389 kB/s
-47.236.167.231,2053,true,SIN,Asia Pacific,Singapore,222 ms,4372 kB/s
-47.237.11.182,2053,true,SIN,Asia Pacific,Singapore,210 ms,4363 kB/s
-47.237.8.82,8443,true,SIN,Asia Pacific,Singapore,216 ms,4354 kB/s
-47.237.121.38,2087,true,SIN,Asia Pacific,Singapore,218 ms,4354 kB/s
-47.236.130.95,8443,true,SIN,Asia Pacific,Singapore,226 ms,4261 kB/s
-8.222.193.65,2087,true,SIN,Asia Pacific,Singapore,213 ms,4242 kB/s
-47.236.130.95,2087,true,SIN,Asia Pacific,Singapore,222 ms,4231 kB/s
-47.237.121.38,2053,true,SIN,Asia Pacific,Singapore,221 ms,4172 kB/s
-47.237.125.8,2087,true,SIN,Asia Pacific,Singapore,218 ms,4140 kB/s
-47.76.254.36,80,true,SIN,Asia Pacific,Singapore,59 ms,4085 kB/s
-47.76.243.157,80,true,SIN,Asia Pacific,Singapore,68 ms,3997 kB/s
-47.243.60.150,8443,true,HKG,Asia Pacific,Hong Kong,64 ms,3958 kB/s
-47.238.36.145,80,true,SIN,Asia Pacific,Singapore,64 ms,3935 kB/s
-47.236.117.48,8443,true,SIN,Asia Pacific,Singapore,222 ms,3906 kB/s
-47.237.10.1,2083,true,SIN,Asia Pacific,Singapore,221 ms,3897 kB/s
-47.76.245.164,80,true,SIN,Asia Pacific,Singapore,66 ms,3887 kB/s
-47.238.48.58,80,true,SIN,Asia Pacific,Singapore,60 ms,3881 kB/s
-8.218.132.209,80,true,SIN,Asia Pacific,Singapore,60 ms,3814 kB/s
-47.238.36.250,80,true,SIN,Asia Pacific,Singapore,66 ms,3808 kB/s
-47.238.44.224,80,true,SIN,Asia Pacific,Singapore,63 ms,3801 kB/s
-47.238.52.160,80,true,SIN,Asia Pacific,Singapore,58 ms,3782 kB/s
-47.237.100.206,8443,true,SIN,Asia Pacific,Singapore,224 ms,3778 kB/s
-47.236.165.25,2083,true,SIN,Asia Pacific,Singapore,213 ms,3722 kB/s
-47.237.94.140,2083,true,SIN,Asia Pacific,Singapore,229 ms,3685 kB/s
-8.219.194.170,2087,true,SIN,Asia Pacific,Singapore,228 ms,3628 kB/s
-47.236.202.91,2087,true,SIN,Asia Pacific,Singapore,231 ms,3612 kB/s
-47.238.52.240,80,true,SIN,Asia Pacific,Singapore,61 ms,3561 kB/s
-47.236.80.110,2083,true,SIN,Asia Pacific,Singapore,225 ms,3457 kB/s
-8.210.3.24,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,3393 kB/s
-47.236.80.110,2096,true,SIN,Asia Pacific,Singapore,234 ms,3362 kB/s
-47.236.117.48,443,true,SIN,Asia Pacific,Singapore,234 ms,3233 kB/s
-47.243.60.150,2087,true,HKG,Asia Pacific,Hong Kong,67 ms,3224 kB/s
-47.236.202.91,2096,true,SIN,Asia Pacific,Singapore,231 ms,3212 kB/s
-47.90.141.204,443,true,LAX,North America,Los Angeles,240 ms,3118 kB/s
-47.236.80.110,2087,true,SIN,Asia Pacific,Singapore,217 ms,3084 kB/s
-47.243.91.58,2053,true,HKG,Asia Pacific,Hong Kong,58 ms,3064 kB/s
-8.219.68.162,443,true,SIN,Asia Pacific,Singapore,217 ms,3045 kB/s
-47.236.202.91,8443,true,SIN,Asia Pacific,Singapore,229 ms,2969 kB/s
-47.236.202.91,2053,true,SIN,Asia Pacific,Singapore,220 ms,2902 kB/s
-8.210.119.11,2083,true,HKG,Asia Pacific,Hong Kong,59 ms,2828 kB/s
-47.236.125.62,2096,true,NRT,Asia Pacific,Tokyo,307 ms,2819 kB/s
-47.76.77.103,2053,true,HKG,Asia Pacific,Hong Kong,68 ms,2815 kB/s
-47.236.80.110,2053,true,SIN,Asia Pacific,Singapore,229 ms,2712 kB/s
-8.222.193.65,8443,true,SIN,Asia Pacific,Singapore,215 ms,2655 kB/s
-47.243.91.58,2087,true,HKG,Asia Pacific,Hong Kong,66 ms,2652 kB/s
-47.236.170.225,8443,true,SIN,Asia Pacific,Singapore,225 ms,2591 kB/s
-47.237.11.182,2096,true,SIN,Asia Pacific,Singapore,218 ms,2585 kB/s
-47.236.117.48,2083,true,SIN,Asia Pacific,Singapore,233 ms,2427 kB/s
-47.236.202.91,2083,true,SIN,Asia Pacific,Singapore,219 ms,2268 kB/s
-47.237.84.173,2053,true,SIN,Asia Pacific,Singapore,216 ms,2239 kB/s
-47.236.170.225,2096,true,SIN,Asia Pacific,Singapore,216 ms,2212 kB/s
-47.236.117.48,2053,true,SIN,Asia Pacific,Singapore,219 ms,2169 kB/s
-47.236.253.41,8443,true,SIN,Asia Pacific,Singapore,226 ms,2167 kB/s
-47.236.117.48,2087,true,SIN,Asia Pacific,Singapore,228 ms,2114 kB/s
-47.76.77.103,2083,true,HKG,Asia Pacific,Hong Kong,64 ms,2082 kB/s
-47.236.170.225,2083,true,SIN,Asia Pacific,Singapore,218 ms,1842 kB/s
-47.76.178.146,443,true,HKG,Asia Pacific,Hong Kong,63 ms,1709 kB/s
-8.210.119.11,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,1497 kB/s
-47.239.12.227,80,true,SIN,Asia Pacific,Singapore,63 ms,1440 kB/s
-8.210.21.65,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,1388 kB/s
-8.210.119.11,2053,true,HKG,Asia Pacific,Hong Kong,62 ms,1359 kB/s
-47.236.253.41,2053,true,SIN,Asia Pacific,Singapore,220 ms,1276 kB/s
-47.76.49.246,2083,true,HKG,Asia Pacific,Hong Kong,60 ms,1263 kB/s
-47.76.178.146,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,1209 kB/s
-47.236.253.41,2096,true,SIN,Asia Pacific,Singapore,221 ms,1161 kB/s
-8.210.174.156,2083,true,HKG,Asia Pacific,Hong Kong,65 ms,1151 kB/s
-47.236.253.41,2083,true,SIN,Asia Pacific,Singapore,226 ms,1072 kB/s
-47.76.77.103,2096,true,HKG,Asia Pacific,Hong Kong,61 ms,1068 kB/s
-47.237.84.173,2083,true,SIN,Asia Pacific,Singapore,217 ms,991 kB/s
-47.236.253.41,2087,true,SIN,Asia Pacific,Singapore,225 ms,966 kB/s
-8.210.119.11,2096,true,HKG,Asia Pacific,Hong Kong,72 ms,963 kB/s
-47.237.84.173,2087,true,SIN,Asia Pacific,Singapore,224 ms,937 kB/s
-47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,67 ms,931 kB/s
-47.76.204.76,8443,true,HKG,Asia Pacific,Hong Kong,62 ms,867 kB/s
-47.76.227.128,2087,true,HKG,Asia Pacific,Hong Kong,63 ms,771 kB/s
-47.76.178.146,2053,true,HKG,Asia Pacific,Hong Kong,63 ms,665 kB/s
-8.210.156.6,2087,true,HKG,Asia Pacific,Hong Kong,62 ms,627 kB/s
-47.76.204.76,2096,true,HKG,Asia Pacific,Hong Kong,64 ms,595 kB/s
-47.76.227.128,8443,true,HKG,Asia Pacific,Hong Kong,60 ms,563 kB/s
-47.76.49.246,2087,true,HKG,Asia Pacific,Hong Kong,60 ms,544 kB/s
-47.76.49.246,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,515 kB/s
-47.236.117.48,2096,true,SIN,Asia Pacific,Singapore,258 ms,489 kB/s
-8.210.3.24,2096,true,HKG,Asia Pacific,Hong Kong,68 ms,480 kB/s
-149.129.8.215,443,true,SJC,North America,San Jose,95 ms,460 kB/s
-47.76.178.146,2083,true,HKG,Asia Pacific,Hong Kong,64 ms,425 kB/s
-8.210.21.65,2096,true,HKG,Asia Pacific,Hong Kong,64 ms,372 kB/s
-47.236.181.185,8443,true,SIN,Asia Pacific,Singapore,220 ms,371 kB/s
-47.57.245.232,443,true,SJC,North America,San Jose,67 ms,326 kB/s
-47.76.49.246,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,317 kB/s
-8.210.156.6,2053,true,HKG,Asia Pacific,Hong Kong,66 ms,313 kB/s
-47.76.33.40,8443,true,HKG,Asia Pacific,Hong Kong,68 ms,291 kB/s
-8.210.174.156,2087,true,HKG,Asia Pacific,Hong Kong,59 ms,275 kB/s
-47.57.14.118,443,true,SJC,North America,San Jose,71 ms,233 kB/s
-47.76.204.76,2087,true,HKG,Asia Pacific,Hong Kong,61 ms,185 kB/s
-47.57.233.126,443,true,SJC,North America,San Jose,68 ms,118 kB/s
-8.210.92.27,443,true,HKG,Asia Pacific,Hong Kong,67 ms,14 kB/s
-47.76.33.40,2096,true,HKG,Asia Pacific,Hong Kong,71 ms,8 kB/s
-8.210.156.6,2083,true,HKG,Asia Pacific,Hong Kong,63 ms,0 kB/s
-47.76.204.76,2053,true,HKG,Asia Pacific,Hong Kong,67 ms,0 kB/s
-47.76.204.76,2083,true,HKG,Asia Pacific,Hong Kong,67 ms,0 kB/s
-47.76.227.128,2053,true,HKG,Asia Pacific,Hong Kong,63 ms,0 kB/s
-47.76.178.146,2087,true,HKG,Asia Pacific,Hong Kong,63 ms,0 kB/s
-47.76.178.146,2096,true,HKG,Asia Pacific,Hong Kong,69 ms,0 kB/s
-47.57.13.107,443,true,HKG,Asia Pacific,Hong Kong,74 ms,0 kB/s
-47.76.33.40,2053,true,HKG,Asia Pacific,Hong Kong,60 ms,0 kB/s
-47.76.49.246,2096,true,HKG,Asia Pacific,Hong Kong,60 ms,0 kB/s
-47.76.77.103,8443,true,HKG,Asia Pacific,Hong Kong,73 ms,0 kB/s
-47.76.32.108,2096,true,HKG,Asia Pacific,Hong Kong,64 ms,0 kB/s
-47.236.118.216,2096,true,SIN,Asia Pacific,Singapore,235 ms,0 kB/s
-8.210.3.24,8443,true,HKG,Asia Pacific,Hong Kong,71 ms,0 kB/s
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+54.189.163.18,2095,80,false,ORD,North America,Chicago,202,0.00
+54.189.163.18,443,80,false,ORD,North America,Chicago,199,0.00
+34.215.90.63,2086,80,false,ORD,North America,Chicago,200,0.00
+35.167.225.145,8880,80,false,ORD,North America,Chicago,202,0.00
+34.215.90.63,2096,80,false,ORD,North America,Chicago,203,0.00
+35.94.111.67,2082,80,false,ORD,North America,Chicago,199,0.00
+34.215.90.63,8443,80,false,ORD,North America,Chicago,203,0.00
+35.91.193.27,2086,80,false,ORD,North America,Chicago,201,0.00
+54.184.5.68,2082,80,false,ORD,North America,Chicago,199,0.00
+34.215.90.63,2052,80,false,ORD,North America,Chicago,202,0.00
+35.91.193.27,2083,80,false,ORD,North America,Chicago,200,0.00
+35.91.193.27,2095,80,false,ORD,North America,Chicago,198,0.00
+54.245.58.106,2053,80,false,ORD,North America,Chicago,199,0.00
+54.245.58.106,2095,80,false,ORD,North America,Chicago,201,0.00
+35.95.36.1,443,80,false,ORD,North America,Chicago,200,0.00
+54.245.58.106,2082,80,false,ORD,North America,Chicago,203,0.00
+54.245.58.106,80,80,false,ORD,North America,Chicago,200,0.00
+52.39.201.69,2053,80,false,ORD,North America,Chicago,199,0.00
+54.245.58.106,8443,80,false,ORD,North America,Chicago,199,0.00
+54.245.58.106,2096,80,false,ORD,North America,Chicago,201,0.00
+52.39.201.69,2087,80,false,ORD,North America,Chicago,199,0.00
+52.39.201.69,443,80,false,ORD,North America,Chicago,198,0.00
+52.39.201.69,80,80,false,ORD,North America,Chicago,202,0.00
+34.215.90.63,2087,80,false,ORD,North America,Chicago,202,0.00
+52.39.201.69,8880,80,false,ORD,North America,Chicago,200,0.00
+34.215.90.63,443,80,false,ORD,North America,Chicago,201,0.00
+54.245.58.106,8880,80,false,ORD,North America,Chicago,200,0.00
+34.215.90.63,2053,80,false,ORD,North America,Chicago,200,0.00
+34.215.90.63,80,80,false,ORD,North America,Chicago,200,0.00
+35.93.189.165,2096,80,false,ORD,North America,Chicago,201,0.00
+35.93.189.165,443,80,false,ORD,North America,Chicago,200,0.00
+13.126.235.39,2086,80,false,ORD,North America,Chicago,172,0.00
+13.126.235.39,80,80,false,ORD,North America,Chicago,147,0.00
+13.126.235.39,2095,80,false,ORD,North America,Chicago,66,0.00
+13.126.235.39,443,80,false,ORD,North America,Chicago,115,0.00
+35.177.161.93,8080,80,false,ORD,North America,Chicago,161,0.00
+52.11.221.197,8880,80,false,ORD,North America,Chicago,205,0.00
+52.11.221.197,2086,80,false,ORD,North America,Chicago,210,0.00
+52.11.221.197,8080,80,false,ORD,North America,Chicago,199,0.00
+52.11.221.197,2096,80,false,ORD,North America,Chicago,201,0.00
+52.11.221.197,80,80,false,ORD,North America,Chicago,207,0.00
+52.11.221.197,2052,80,false,ORD,North America,Chicago,200,0.00
+52.11.221.197,2095,80,false,ORD,North America,Chicago,198,0.00
+52.11.221.197,8443,80,false,ORD,North America,Chicago,199,0.00
+52.11.221.197,443,80,false,ORD,North America,Chicago,199,0.00
+13.55.237.163,2086,80,false,SYD,Oceania,Sydney,93,0.00
+13.215.80.221,2082,80,false,SIN,Asia Pacific,Singapore,94,0.00
+13.114.59.37,2052,80,false,NRT,Asia Pacific,Tokyo,96,0.00
+13.55.237.163,2082,80,false,SYD,Oceania,Sydney,96,0.00
+54.253.222.7,2053,80,false,SYD,Oceania,Sydney,98,0.00
+96.0.147.193,80,80,false,HKG,Asia Pacific,Hong Kong,98,0.00
+96.0.147.114,443,80,false,HKG,Asia Pacific,Hong Kong,100,0.00
+13.55.237.163,2095,80,false,SYD,Oceania,Sydney,101,0.00
+96.0.147.114,80,80,false,MNL,Asia Pacific,Manila,102,0.00
+96.0.148.214,80,80,false,HKG,Asia Pacific,Hong Kong,103,0.00
+13.54.173.154,2095,80,false,SYD,Oceania,Sydney,108,0.00
+54.253.222.7,2083,80,false,SYD,Oceania,Sydney,111,0.00
+13.215.80.221,2095,80,false,SIN,Asia Pacific,Singapore,115,0.00
+13.209.166.73,80,8080,false,ICN,Asia Pacific,Seoul,117,0.00
+13.55.238.1,2052,80,false,SYD,Oceania,Sydney,117,0.00
+13.55.237.163,2052,80,false,SYD,Oceania,Sydney,118,0.00
+54.253.222.7,2052,80,false,SYD,Oceania,Sydney,119,0.00
+15.165.63.136,2095,80,false,ICN,Asia Pacific,Seoul,120,0.00
+13.55.237.163,2096,80,false,SYD,Oceania,Sydney,120,0.00
+13.55.238.1,2083,80,false,SYD,Oceania,Sydney,126,0.00
+13.55.237.163,2087,80,false,SYD,Oceania,Sydney,127,0.00
+54.253.222.7,2087,80,false,SYD,Oceania,Sydney,132,0.00
+13.215.80.221,2096,80,false,SIN,Asia Pacific,Singapore,133,0.00
+13.55.237.163,2083,80,false,SYD,Oceania,Sydney,138,0.00
+13.55.237.163,2053,80,false,SYD,Oceania,Sydney,140,0.00
+13.54.173.154,2083,80,false,SYD,Oceania,Sydney,160,0.00
+15.188.168.174,2082,80,false,CDG,Europe,Paris,162,0.00
+13.215.80.221,2086,80,false,SIN,Asia Pacific,Singapore,162,0.00
+99.80.238.19,2053,80,false,LHR,Europe,London,162,0.00
+13.54.173.154,2082,80,false,SYD,Oceania,Sydney,163,0.00
+99.80.238.19,2096,80,false,LHR,Europe,London,164,0.00
+15.236.116.199,2082,80,false,CDG,Europe,Paris,166,0.00
+15.236.116.199,2052,80,false,CDG,Europe,Paris,166,0.00
+15.236.116.199,2086,80,false,CDG,Europe,Paris,167,0.00
+13.55.238.1,2087,80,false,SYD,Oceania,Sydney,167,0.00
+79.125.15.17,2052,80,false,LHR,Europe,London,168,0.00
+99.80.238.19,2087,80,false,LHR,Europe,London,169,0.00
+13.55.238.1,2096,80,false,SYD,Oceania,Sydney,170,0.00
+13.55.238.1,2095,80,false,SYD,Oceania,Sydney,171,0.00
+15.236.116.199,2095,80,false,CDG,Europe,Paris,173,0.00
+15.160.80.28,2052,80,false,MXP,Europe,Milan,176,0.00
+79.125.15.17,2052,80,false,LHR,Europe,London,176,0.00
+15.160.19.149,2052,80,false,MXP,Europe,Milan,176,0.00
+15.160.15.101,2082,80,false,MXP,Europe,Milan,176,0.00
+15.160.15.255,2096,80,false,MXP,Europe,Milan,176,0.00
+15.236.116.199,2087,80,false,CDG,Europe,Paris,179,0.00
+15.160.15.255,2095,80,false,MXP,Europe,Milan,180,0.00
+15.160.19.149,2082,80,false,MXP,Europe,Milan,180,0.00
+15.236.116.199,2053,80,false,CDG,Europe,Paris,180,0.00
+15.160.15.255,2083,80,false,MXP,Europe,Milan,181,0.00
+15.160.15.101,2086,80,false,MXP,Europe,Milan,181,0.00
+15.160.15.101,2096,80,false,MXP,Europe,Milan,181,0.00
+15.160.250.170,2082,80,false,MXP,Europe,Milan,183,0.00
+15.160.80.28,2053,80,false,MXP,Europe,Milan,183,0.00
+15.160.80.28,2086,80,false,MXP,Europe,Milan,183,0.00
+13.55.238.1,2053,80,false,SYD,Oceania,Sydney,185,0.00
+15.160.250.170,2053,80,false,MXP,Europe,Milan,185,0.00
+15.160.252.181,2095,80,false,MXP,Europe,Milan,186,0.00
+13.54.173.154,2052,80,false,SYD,Oceania,Sydney,186,0.00
+15.160.15.101,2052,80,false,MXP,Europe,Milan,187,0.00
+15.236.116.199,2083,80,false,CDG,Europe,Paris,187,0.00
+15.160.14.66,2096,80,false,MXP,Europe,Milan,187,0.00
+13.53.47.110,2082,80,false,ARN,Europe,Stockholm,188,0.00
+13.48.36.215,2095,80,false,ARN,Europe,Stockholm,188,0.00
+13.51.138.200,2096,80,false,ARN,Europe,Stockholm,188,0.00
+13.51.138.200,2086,80,false,ARN,Europe,Stockholm,188,0.00
+13.49.6.192,2096,80,false,ARN,Europe,Stockholm,189,0.00
+13.48.36.215,2083,80,false,ARN,Europe,Stockholm,189,0.00
+13.53.47.110,2086,80,false,ARN,Europe,Stockholm,189,0.00
+13.36.162.145,2087,80,false,CDG,Europe,Paris,190,0.00
+13.49.6.192,2082,80,false,ARN,Europe,Stockholm,190,0.00
+13.49.6.192,2095,80,false,ARN,Europe,Stockholm,191,0.00
+15.161.40.69,2086,80,false,MXP,Europe,Milan,191,0.00
+15.160.19.149,2095,80,false,MXP,Europe,Milan,192,0.00
+13.48.140.41,2083,80,false,ARN,Europe,Stockholm,192,0.00
+13.48.140.41,2095,80,false,ARN,Europe,Stockholm,192,0.00
+15.161.216.233,2052,80,false,MXP,Europe,Milan,193,0.00
+13.49.119.167,2083,80,false,ARN,Europe,Stockholm,193,0.00
+15.160.80.28,2087,80,false,MXP,Europe,Milan,193,0.00
+13.49.119.167,2082,80,false,ARN,Europe,Stockholm,194,0.00
+15.160.15.255,2052,80,false,MXP,Europe,Milan,195,0.00
+13.49.119.167,2095,80,false,ARN,Europe,Stockholm,195,0.00
+15.160.15.255,2082,80,false,MXP,Europe,Milan,196,0.00
+13.54.173.154,2086,80,false,SYD,Oceania,Sydney,197,0.00
+13.51.138.200,2082,80,false,ARN,Europe,Stockholm,197,0.00
+15.160.19.149,2083,80,false,MXP,Europe,Milan,197,0.00
+99.80.238.19,2082,80,false,LHR,Europe,London,198,0.00
+13.49.6.192,2087,80,false,ARN,Europe,Stockholm,198,0.00
+13.51.138.200,2053,80,false,ARN,Europe,Stockholm,199,0.00
+13.48.140.41,2052,80,false,ARN,Europe,Stockholm,199,0.00
+13.49.119.167,2096,80,false,ARN,Europe,Stockholm,199,0.00
+13.49.119.167,2086,80,false,ARN,Europe,Stockholm,199,0.00
+15.160.80.28,2096,80,false,MXP,Europe,Milan,200,0.00
+13.48.36.215,2086,80,false,ARN,Europe,Stockholm,200,0.00
+13.213.206.28,443,443,true,SIN,Asia Pacific,Singapore,202,0.00
+13.49.119.167,2052,80,false,ARN,Europe,Stockholm,202,0.00
+13.53.47.110,2096,80,false,ARN,Europe,Stockholm,203,0.00
+13.54.173.154,2096,80,false,SYD,Oceania,Sydney,205,0.00
+15.161.215.18,2087,80,false,MXP,Europe,Milan,205,0.00
+13.54.173.154,2053,80,false,SYD,Oceania,Sydney,206,0.00
+99.80.238.19,2052,80,false,LHR,Europe,London,206,0.00
+15.160.80.28,2082,80,false,MXP,Europe,Milan,207,0.00
+15.160.15.255,2086,80,false,MXP,Europe,Milan,208,0.00
+15.160.14.66,2052,80,false,MXP,Europe,Milan,208,0.00
+13.48.140.41,2087,80,false,ARN,Europe,Stockholm,209,0.00
+13.215.80.221,2083,80,false,SIN,Asia Pacific,Singapore,209,0.00
+13.48.36.215,2053,80,false,ARN,Europe,Stockholm,210,0.00
+13.48.36.215,2096,80,false,ARN,Europe,Stockholm,212,0.00
+15.165.63.136,2053,80,false,ICN,Asia Pacific,Seoul,212,0.00
+15.160.14.66,2053,80,false,MXP,Europe,Milan,214,0.00
+13.48.36.215,2082,80,false,ARN,Europe,Stockholm,214,0.00
+15.160.14.66,2082,80,false,MXP,Europe,Milan,214,0.00
+15.236.116.199,2096,80,false,CDG,Europe,Paris,215,0.00
+15.161.216.233,2083,80,false,MXP,Europe,Milan,215,0.00
+15.165.63.136,2052,80,false,ICN,Asia Pacific,Seoul,216,0.00
+13.48.36.215,2087,80,false,ARN,Europe,Stockholm,217,0.00
+15.160.15.101,2087,80,false,MXP,Europe,Milan,218,0.00
+13.53.47.110,2083,80,false,ARN,Europe,Stockholm,219,0.00
+99.80.238.19,2086,80,false,LHR,Europe,London,219,0.00
+15.160.15.255,2053,80,false,MXP,Europe,Milan,220,0.00
+13.48.140.41,2053,80,false,ARN,Europe,Stockholm,226,0.00
+15.160.14.66,2083,80,false,MXP,Europe,Milan,227,0.00
+15.160.19.149,2096,80,false,MXP,Europe,Milan,227,0.00
+15.161.215.18,2082,80,false,MXP,Europe,Milan,228,0.00
+15.160.14.66,2095,80,false,MXP,Europe,Milan,229,0.00
+13.54.81.122,2052,80,false,SYD,Oceania,Sydney,231,0.00
+15.160.14.66,2087,80,false,MXP,Europe,Milan,232,0.00
+13.51.138.200,2095,80,false,ARN,Europe,Stockholm,233,0.00
+13.51.138.200,2083,80,false,ARN,Europe,Stockholm,233,0.00
+15.160.80.28,2083,80,false,MXP,Europe,Milan,233,0.00
+13.125.218.78,443,443,true,ICN,Asia Pacific,Seoul,239,0.00
+13.36.162.145,2096,80,false,CDG,Europe,Paris,239,0.00
+13.49.119.167,2087,80,false,ARN,Europe,Stockholm,239,0.00
+79.125.15.17,2053,80,false,LHR,Europe,London,240,0.00
+13.53.47.110,2053,80,false,ARN,Europe,Stockholm,240,0.00
+15.161.215.18,2052,80,false,MXP,Europe,Milan,244,0.00
+13.53.47.110,2052,80,false,ARN,Europe,Stockholm,246,0.00
+13.49.6.192,2053,80,false,ARN,Europe,Stockholm,246,0.00
+99.80.238.19,2083,80,false,LHR,Europe,London,248,0.00
+13.53.47.110,2087,80,false,ARN,Europe,Stockholm,248,0.00
+13.36.253.240,2082,80,false,CDG,Europe,Paris,248,0.00
+15.161.216.233,2086,80,false,MXP,Europe,Milan,249,0.00
+15.161.215.18,2086,80,false,MXP,Europe,Milan,249,0.00
+15.161.215.18,2083,80,false,MXP,Europe,Milan,250,0.00
+13.49.119.167,2053,80,false,ARN,Europe,Stockholm,251,0.00
+15.160.15.101,2053,80,false,MXP,Europe,Milan,251,0.00
+15.160.80.28,2095,80,false,MXP,Europe,Milan,254,0.00
+13.39.231.83,443,80,false,CDG,Europe,Paris,254,0.00
+15.160.19.149,2086,80,false,MXP,Europe,Milan,255,0.00
+15.160.19.149,2087,80,false,MXP,Europe,Milan,256,0.00
+13.53.47.110,2095,80,false,ARN,Europe,Stockholm,258,0.00
+15.161.216.233,2096,80,false,MXP,Europe,Milan,259,0.00
+15.160.15.101,2095,80,false,MXP,Europe,Milan,259,0.00
+15.160.19.149,2053,80,false,MXP,Europe,Milan,264,0.00
+15.161.216.233,2095,80,false,MXP,Europe,Milan,264,0.00
+15.160.14.66,2086,80,false,MXP,Europe,Milan,266,0.00
+15.161.215.18,2053,80,false,MXP,Europe,Milan,274,0.00
+13.54.173.154,2087,80,false,SYD,Oceania,Sydney,276,0.00
+13.48.140.41,2096,80,false,ARN,Europe,Stockholm,278,0.00
+15.161.215.18,2095,80,false,MXP,Europe,Milan,280,0.00
+15.161.215.18,2096,80,false,MXP,Europe,Milan,281,0.00
+13.48.140.41,2082,80,false,ARN,Europe,Stockholm,286,0.00
+15.161.216.233,2053,80,false,MXP,Europe,Milan,292,0.00
+13.36.162.145,2082,80,false,CDG,Europe,Paris,299,0.00
+13.36.253.240,2083,80,false,CDG,Europe,Paris,306,0.00
+13.36.253.240,2052,80,false,CDG,Europe,Paris,306,0.00
+15.161.216.233,2082,80,false,MXP,Europe,Milan,306,0.00
+13.36.253.240,2053,80,false,CDG,Europe,Paris,309,0.00
+15.160.15.101,2083,80,false,MXP,Europe,Milan,313,0.00
+13.36.162.145,2086,80,false,CDG,Europe,Paris,319,0.00
+13.48.36.215,2052,80,false,ARN,Europe,Stockholm,320,0.00
+13.36.162.145,2052,80,false,CDG,Europe,Paris,336,0.00
+13.51.182.91,2053,443,true,FRA,Europe,Frankfurt,337,0.00
+13.36.162.145,2083,80,false,CDG,Europe,Paris,342,0.00
+15.161.216.233,2087,80,false,MXP,Europe,Milan,348,0.00
+15.160.15.255,2087,80,false,MXP,Europe,Milan,361,0.00
+13.36.253.240,2096,80,false,CDG,Europe,Paris,390,0.00
+13.36.162.145,2095,80,false,CDG,Europe,Paris,550,0.00
+13.36.162.145,2053,80,false,CDG,Europe,Paris,759,0.00
+13.36.253.240,2087,80,false,CDG,Europe,Paris,860,0.00
+13.36.253.240,2086,80,false,CDG,Europe,Paris,954,0.00
