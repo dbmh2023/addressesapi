@@ -1,72 +1,140 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-23.225.64.72,25017,true,SIN,Asia Pacific,Singapore,103 ms,17918 kB/s
-149.104.32.74,9888,true,MRS,Europe,Marseille,198 ms,4999 kB/s
-103.94.185.165,23429,true,LAX,North America,Los Angeles,203 ms,4962 kB/s
-149.104.33.139,9888,true,MRS,Europe,Marseille,177 ms,4943 kB/s
-154.194.64.131,9888,true,MRS,Europe,Marseille,74 ms,4813 kB/s
-149.104.34.210,9888,true,MRS,Europe,Marseille,85 ms,4681 kB/s
-149.104.34.213,9888,true,MRS,Europe,Marseille,77 ms,4665 kB/s
-154.194.64.135,9888,true,MRS,Europe,Marseille,66 ms,4556 kB/s
-149.104.34.211,9888,true,MRS,Europe,Marseille,66 ms,4446 kB/s
-154.194.64.137,9888,true,MRS,Europe,Marseille,70 ms,4431 kB/s
-149.104.34.214,9888,true,MRS,Europe,Marseille,74 ms,4398 kB/s
-154.194.64.130,9888,true,MRS,Europe,Marseille,69 ms,4378 kB/s
-154.194.64.138,9888,true,MRS,Europe,Marseille,71 ms,4335 kB/s
-154.194.64.132,9888,true,MRS,Europe,Marseille,69 ms,4303 kB/s
-217.20.241.36,17826,true,LAX,North America,Los Angeles,193 ms,4194 kB/s
-149.104.33.166,9888,true,MRS,Europe,Marseille,213 ms,4190 kB/s
-149.104.32.166,9888,true,MRS,Europe,Marseille,211 ms,3811 kB/s
-103.235.18.61,34237,true,HKG,Asia Pacific,Hong Kong,79 ms,3511 kB/s
-149.104.33.179,9888,true,MRS,Europe,Marseille,200 ms,3151 kB/s
-149.104.32.78,9888,true,MRS,Europe,Marseille,174 ms,3130 kB/s
-149.104.33.165,9888,true,MRS,Europe,Marseille,227 ms,3013 kB/s
-103.99.179.39,443,true,LAX,North America,Los Angeles,200 ms,2995 kB/s
-149.104.33.169,9888,true,MRS,Europe,Marseille,195 ms,2871 kB/s
-154.197.92.66,9888,true,MRS,Europe,Marseille,73 ms,2758 kB/s
-149.104.34.28,9888,true,MRS,Europe,Marseille,70 ms,2706 kB/s
-149.104.33.183,9888,true,MRS,Europe,Marseille,227 ms,2521 kB/s
-154.197.92.85,9888,true,MRS,Europe,Marseille,77 ms,2442 kB/s
-154.197.92.73,9888,true,MRS,Europe,Marseille,79 ms,2204 kB/s
-154.197.92.88,9888,true,MRS,Europe,Marseille,72 ms,2150 kB/s
-154.197.92.121,9888,true,MRS,Europe,Marseille,72 ms,2140 kB/s
-154.197.92.123,9888,true,MRS,Europe,Marseille,85 ms,1979 kB/s
-154.197.92.92,9888,true,MRS,Europe,Marseille,78 ms,1845 kB/s
-149.104.34.27,9888,true,MRS,Europe,Marseille,70 ms,1798 kB/s
-154.197.92.110,9888,true,MRS,Europe,Marseille,81 ms,1683 kB/s
-149.104.33.137,9888,true,MRS,Europe,Marseille,178 ms,1583 kB/s
-149.104.34.29,9888,true,MRS,Europe,Marseille,68 ms,1520 kB/s
-154.197.92.109,9888,true,MRS,Europe,Marseille,80 ms,1518 kB/s
-154.197.92.115,9888,true,MRS,Europe,Marseille,70 ms,1321 kB/s
-154.197.92.119,9888,true,MRS,Europe,Marseille,74 ms,1244 kB/s
-154.197.92.120,9888,true,MRS,Europe,Marseille,69 ms,1241 kB/s
-154.197.92.103,9888,true,MRS,Europe,Marseille,71 ms,1225 kB/s
-154.197.92.91,9888,true,MRS,Europe,Marseille,75 ms,1216 kB/s
-154.197.92.124,9888,true,MRS,Europe,Marseille,70 ms,1196 kB/s
-149.104.32.165,9888,true,MRS,Europe,Marseille,208 ms,1157 kB/s
-38.6.190.192,2087,true,LAX,North America,Los Angeles,207 ms,1132 kB/s
-154.197.92.82,9888,true,MRS,Europe,Marseille,79 ms,1126 kB/s
-154.197.92.101,9888,true,MRS,Europe,Marseille,81 ms,1113 kB/s
-149.104.34.26,9888,true,MRS,Europe,Marseille,76 ms,1112 kB/s
-103.99.178.62,51794,true,LAX,North America,Los Angeles,217 ms,1030 kB/s
-103.99.178.62,31940,true,LAX,North America,Los Angeles,203 ms,1001 kB/s
-103.99.178.62,13241,true,LAX,North America,Los Angeles,175 ms,995 kB/s
-154.197.92.86,9888,true,MRS,Europe,Marseille,76 ms,925 kB/s
-154.197.92.113,9888,true,MRS,Europe,Marseille,79 ms,900 kB/s
-154.197.92.106,9888,true,MRS,Europe,Marseille,75 ms,881 kB/s
-38.6.190.192,2083,true,LAX,North America,Los Angeles,225 ms,870 kB/s
-154.197.92.117,9888,true,MRS,Europe,Marseille,75 ms,825 kB/s
-154.197.92.84,9888,true,MRS,Europe,Marseille,73 ms,790 kB/s
-172.247.123.56,34237,true,LAX,North America,Los Angeles,173 ms,784 kB/s
-154.197.92.118,9888,true,MRS,Europe,Marseille,70 ms,758 kB/s
-172.247.15.240,34237,true,LAX,North America,Los Angeles,174 ms,659 kB/s
-23.225.195.46,14369,true,LAX,North America,Los Angeles,171 ms,656 kB/s
-172.247.21.125,443,true,LAX,North America,Los Angeles,193 ms,457 kB/s
-154.197.92.77,9888,true,MRS,Europe,Marseille,79 ms,374 kB/s
-154.197.92.70,9888,true,MRS,Europe,Marseille,83 ms,278 kB/s
-154.197.92.81,9888,true,MRS,Europe,Marseille,81 ms,262 kB/s
-154.197.92.93,9888,true,MRS,Europe,Marseille,75 ms,255 kB/s
-154.197.92.75,9888,true,MRS,Europe,Marseille,71 ms,102 kB/s
-154.197.92.67,9888,true,MRS,Europe,Marseille,77 ms,99 kB/s
-154.197.92.72,9888,true,MRS,Europe,Marseille,76 ms,92 kB/s
-154.197.92.80,9888,true,MRS,Europe,Marseille,69 ms,86 kB/s
-2.56.255.16,443,true,LAX,North America,Los Angeles,191 ms,0 kB/s
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+34.117.254.68,80,80,false,SIN,Asia Pacific,Singapore,60,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,62,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,63,0.00
+34.142.133.116,443,80,false,SIN,Asia Pacific,Singapore,71,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,75,0.00
+34.49.82.120,80,80,false,SIN,Asia Pacific,Singapore,79,0.00
+34.111.135.19,80,80,false,SIN,Asia Pacific,Singapore,85,0.00
+34.87.141.22,80,80,false,SIN,Asia Pacific,Singapore,97,0.00
+34.87.141.22,80,80,false,SIN,Asia Pacific,Singapore,107,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,109,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,114,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,114,0.00
+34.87.141.22,80,80,false,SIN,Asia Pacific,Singapore,118,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,119,0.00
+35.244.133.3,80,80,false,SIN,Asia Pacific,Singapore,124,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,129,0.00
+34.87.141.22,443,80,false,SIN,Asia Pacific,Singapore,130,0.00
+34.111.135.19,80,80,false,SIN,Asia Pacific,Singapore,133,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,134,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,Mumbai,139,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,139,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,144,0.00
+34.160.118.77,80,80,false,SIN,Asia Pacific,Singapore,144,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,148,0.00
+34.36.183.121,80,80,false,SIN,Asia Pacific,Singapore,149,0.00
+34.126.100.159,80,80,false,SIN,Asia Pacific,Singapore,150,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,151,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,156,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,156,0.00
+35.197.89.213,80,80,false,SEA,North America,Seattle,158,0.00
+34.82.26.69,80,80,false,SEA,North America,Seattle,158,0.00
+34.126.100.159,443,80,false,SIN,Asia Pacific,Singapore,159,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,160,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,160,0.00
+34.147.101.117,2096,80,false,AMS,Europe,Amsterdam,160,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,160,0.00
+34.147.101.117,2087,80,false,SYD,Oceania,Sydney,160,0.00
+34.147.101.117,2086,80,false,AMS,Europe,Amsterdam,160,0.00
+34.147.101.117,2082,80,false,AMS,Europe,Amsterdam,161,0.00
+34.87.149.79,80,80,false,SIN,Asia Pacific,Singapore,161,0.00
+34.87.141.22,443,80,false,SIN,Asia Pacific,Singapore,161,0.00
+34.141.248.249,2096,80,false,AMS,Europe,Amsterdam,161,0.00
+34.147.101.117,2083,80,false,AMS,Europe,Amsterdam,161,0.00
+34.147.101.117,2096,80,false,AMS,Europe,Amsterdam,162,0.00
+34.141.248.249,2082,80,false,AMS,Europe,Amsterdam,162,0.00
+34.141.221.33,2082,80,false,AMS,Europe,Amsterdam,162,0.00
+34.169.48.177,80,80,false,SEA,North America,Seattle,162,0.00
+34.141.248.249,2053,80,false,AMS,Europe,Amsterdam,163,0.00
+34.87.149.79,443,80,false,SIN,Asia Pacific,Singapore,164,0.00
+34.141.221.33,2095,80,false,AMS,Europe,Amsterdam,164,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,164,0.00
+34.141.248.249,2095,80,false,AMS,Europe,Amsterdam,164,0.00
+34.147.101.117,2082,80,false,AMS,Europe,Amsterdam,164,0.00
+34.147.82.194,2053,80,false,AMS,Europe,Amsterdam,165,0.00
+34.147.101.117,2083,80,false,AMS,Europe,Amsterdam,167,0.00
+34.141.221.33,2087,80,false,AMS,Europe,Amsterdam,169,0.00
+34.141.248.249,2083,80,false,AMS,Europe,Amsterdam,170,0.00
+34.147.101.117,2095,80,false,AMS,Europe,Amsterdam,170,0.00
+34.147.82.194,2053,80,false,AMS,Europe,Amsterdam,171,0.00
+34.105.49.234,80,80,false,SEA,North America,Seattle,173,0.00
+34.147.101.117,2053,80,false,AMS,Europe,Amsterdam,174,0.00
+34.141.221.33,2053,80,false,AMS,Europe,Amsterdam,176,0.00
+34.141.248.249,2086,80,false,AMS,Europe,Amsterdam,176,0.00
+34.147.101.117,2087,80,false,SYD,Oceania,Sydney,176,0.00
+34.141.221.33,2086,80,false,AMS,Europe,Amsterdam,177,0.00
+34.175.168.99,2087,80,false,MAD,Europe,Madrid,178,0.00
+34.175.161.245,2052,80,false,MAD,Europe,Madrid,178,0.00
+34.175.7.231,2053,80,false,MAD,Europe,Madrid,178,0.00
+34.175.95.58,2082,80,false,MAD,Europe,Madrid,178,0.00
+34.175.7.231,2052,80,false,MAD,Europe,Madrid,179,0.00
+34.175.244.157,2083,80,false,MAD,Europe,Madrid,179,0.00
+34.175.161.245,2083,80,false,MAD,Europe,Madrid,179,0.00
+34.175.99.73,2086,80,false,MAD,Europe,Madrid,179,0.00
+34.175.161.245,2096,80,false,MAD,Europe,Madrid,179,0.00
+34.175.7.231,2082,80,false,MAD,Europe,Madrid,179,0.00
+34.175.244.157,2095,80,false,MAD,Europe,Madrid,179,0.00
+34.175.161.245,2086,80,false,MAD,Europe,Madrid,179,0.00
+34.175.244.157,2053,80,false,MAD,Europe,Madrid,179,0.00
+34.175.244.157,2087,80,false,MAD,Europe,Madrid,180,0.00
+34.175.244.157,2096,80,false,MAD,Europe,Madrid,180,0.00
+34.141.248.249,2087,80,false,AMS,Europe,Amsterdam,180,0.00
+34.175.133.251,2095,80,false,MAD,Europe,Madrid,181,0.00
+34.175.99.73,2052,80,false,MAD,Europe,Madrid,182,0.00
+34.175.161.245,2082,80,false,MAD,Europe,Madrid,182,0.00
+34.175.95.58,2053,80,false,MAD,Europe,Madrid,183,0.00
+34.175.99.73,2096,80,false,MAD,Europe,Madrid,184,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,187,0.00
+34.141.221.33,2096,80,false,AMS,Europe,Amsterdam,187,0.00
+34.82.26.69,80,80,false,SEA,North America,Seattle,190,0.00
+34.175.161.245,2053,80,false,MAD,Europe,Madrid,190,0.00
+34.175.133.251,2087,80,false,MAD,Europe,Madrid,191,0.00
+34.175.95.58,2095,80,false,MAD,Europe,Madrid,194,0.00
+34.141.221.33,2083,80,false,AMS,Europe,Amsterdam,194,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,195,0.00
+34.141.248.249,2052,80,false,AMS,Europe,Amsterdam,196,0.00
+34.82.26.69,80,80,false,SEA,North America,Seattle,196,0.00
+34.141.221.33,2052,80,false,AMS,Europe,Amsterdam,197,0.00
+34.175.161.245,2095,80,false,MAD,Europe,Madrid,197,0.00
+34.175.161.245,2087,80,false,MAD,Europe,Madrid,200,0.00
+34.147.101.117,2053,80,false,AMS,Europe,Amsterdam,201,0.00
+34.175.244.157,2086,80,false,MAD,Europe,Madrid,201,0.00
+34.105.49.234,80,80,false,SEA,North America,Seattle,202,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,202,0.00
+34.36.19.133,80,80,false,SIN,Asia Pacific,Singapore,204,0.00
+35.188.87.85,80,8080,false,ORD,North America,Chicago,205,0.00
+34.175.133.251,2053,80,false,MAD,Europe,Madrid,207,0.00
+35.222.41.71,8080,80,false,ORD,North America,Chicago,209,0.00
+34.175.133.251,2082,80,false,MAD,Europe,Madrid,213,0.00
+35.227.157.227,80,80,false,SEA,North America,Seattle,214,0.00
+34.175.244.157,2052,80,false,MAD,Europe,Madrid,215,0.00
+35.187.41.171,2083,80,false,CDG,Europe,Paris,216,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,219,0.00
+34.147.101.117,2052,80,false,AMS,Europe,Amsterdam,219,0.00
+35.237.154.5,80,80,false,ATL,North America,Atlanta,219,0.00
+34.82.90.65,80,80,false,SEA,North America,Seattle,219,0.00
+34.175.95.58,2086,80,false,MAD,Europe,Madrid,220,0.00
+34.175.143.15,2095,80,false,MAD,Europe,Madrid,220,0.00
+34.82.76.253,80,80,false,SEA,North America,Seattle,223,0.00
+34.175.244.157,2082,80,false,MAD,Europe,Madrid,225,0.00
+34.175.95.58,2052,80,false,MAD,Europe,Madrid,226,0.00
+35.227.157.227,80,80,false,SEA,North America,Seattle,227,0.00
+34.170.57.85,8080,80,false,ORD,North America,Chicago,227,0.00
+34.175.99.73,2095,80,false,MAD,Europe,Madrid,228,0.00
+34.147.101.117,2086,80,false,AMS,Europe,Amsterdam,228,0.00
+35.232.39.116,80,80,false,DFW,North America,Dallas,232,0.00
+34.74.105.17,80,8080,false,ATL,North America,Atlanta,252,0.00
+34.147.101.117,2052,80,false,AMS,Europe,Amsterdam,254,0.00
+34.175.7.231,2087,80,false,MAD,Europe,Madrid,258,0.00
+34.74.105.17,80,8080,false,ATL,North America,Atlanta,259,0.00
+34.82.90.65,443,80,false,SEA,North America,Seattle,263,0.00
+34.74.105.17,80,8080,false,ATL,North America,Atlanta,264,0.00
+34.147.101.117,2095,80,false,AMS,Europe,Amsterdam,271,0.00
+34.175.95.58,2096,80,false,MAD,Europe,Madrid,285,0.00
+34.74.105.17,80,8080,false,ATL,North America,Atlanta,301,0.00
+34.82.26.69,80,80,false,SEA,North America,Seattle,321,0.00
+34.105.3.218,443,443,true,SEA,North America,Seattle,355,0.00
+35.200.238.235,443,443,true,BOM,Asia Pacific,Mumbai,379,0.00
+34.87.141.22,443,80,false,SIN,Asia Pacific,Singapore,385,0.00
+34.145.66.39,8080,8080,false,BOM,Asia Pacific,Mumbai,596,0.00
