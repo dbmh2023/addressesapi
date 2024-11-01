@@ -10,3 +10,5 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 13.53.54.176,8080,true,ARN,Europe,Stockholm,196 ms,6227 kB/s
 13.49.166.245,443,true,ARN,Europe,Stockholm,179 ms,6113 kB/s
 13.53.132.96,8080,true,ARN,Europe,Stockholm,245 ms,5761 kB/s
+166.0.188.128,19027,true,LAX,North America,Los Angeles,172 ms,10423 kB/s
+23.225.64.72,25017,true,SIN,Asia Pacific,Singapore,119 ms,17944 kB/s
