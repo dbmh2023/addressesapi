@@ -1,19 +1,4 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,87 ms,23529 kB/s
-13.53.81.150,2083,true,HEL,Europe,Helsinki,189 ms,7883 kB/s
-13.53.54.176,8080,true,ARN,Europe,Stockholm,187 ms,7726 kB/s
-99.83.209.185,443,true,IAD,North America,Ashburn,108 ms,6734 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,199 ms,6645 kB/s
-13.40.128.14,8443,true,LHR,Europe,London,175 ms,6513 kB/s
-13.50.173.22,8443,true,ARN,Europe,Stockholm,201 ms,5978 kB/s
-35.167.93.200,443,true,SEA,North America,Seattle,220 ms,5565 kB/s
-204.110.221.83,80,true,YUL,North America,Montréal,250 ms,5032 kB/s
-13.53.132.96,8080,true,ARN,Europe,Stockholm,204 ms,4960 kB/s
-204.110.221.1,80,true,YUL,North America,Montréal,257 ms,4665 kB/s
-204.110.221.231,80,true,YUL,North America,Montréal,250 ms,4620 kB/s
-204.110.221.48,80,true,YUL,North America,Montréal,257 ms,4605 kB/s
-13.41.76.64,8080,true,LHR,Europe,London,177 ms,4271 kB/s
-3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,300 ms,4182 kB/s
 13.41.203.20,8080,true,LHR,Europe,London,209 ms,3958 kB/s
 204.110.221.36,80,true,YUL,North America,Montréal,247 ms,3462 kB/s
 129.146.46.164,443,true,LAX,North America,Los Angeles,273 ms,5700 kB/s
