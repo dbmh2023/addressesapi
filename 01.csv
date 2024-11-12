@@ -16,27 +16,12 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,300 ms,4182 kB/s
 13.41.203.20,8080,true,LHR,Europe,London,209 ms,3958 kB/s
 204.110.221.36,80,true,YUL,North America,Montréal,247 ms,3462 kB/s
-3.7.108.69,443,true,BOM,Asia Pacific,Mumbai,309 ms,1763 kB/s
-204.110.221.40,80,true,YUL,North America,Montréal,245 ms,972 kB/s
-13.233.5.49,443,true,BOM,Asia Pacific,Mumbai,300 ms,399 kB/s
-18.135.67.188,443,true,LHR,Europe,London,188 ms,124 kB/s
-18.135.188.86,443,true,LHR,Europe,London,177 ms,115 kB/s
-44.226.147.29,443,true,SEA,North America,Seattle,202 ms,96 kB/s
-44.227.22.10,443,true,SEA,North America,Seattle,208 ms,94 kB/s
-3.98.73.243,443,true,YUL,North America,Montréal,251 ms,89 kB/s
-3.99.106.179,443,true,YUL,North America,Montréal,251 ms,83 kB/s
-15.157.7.168,443,true,YUL,North America,Montréal,249 ms,48 kB/s
-204.110.223.83,80,true,CMH,North America,Columbus,232 ms,0 kB/s
-204.110.220.192,80,true,SJC,North America,San Jose,175 ms,0 kB/s
-204.110.220.87,80,true,SJC,North America,San Jose,175 ms,0 kB/s
-204.110.223.75,80,true,CMH,North America,Columbus,229 ms,0 kB/s
-204.110.220.224,80,true,SJC,North America,San Jose,171 ms,0 kB/s
-3.101.110.90,80,true,SJC,North America,San Jose,215 ms,0 kB/s
-50.112.166.63,443,true,SEA,North America,Seattle,202 ms,0 kB/s
-13.53.51.77,8080,true,ARN,Europe,Stockholm,205 ms,0 kB/s
-204.110.223.6,80,true,CMH,North America,Columbus,254 ms,0 kB/s
-204.110.223.219,80,true,CMH,North America,Columbus,239 ms,0 kB/s
-204.110.223.40,80,true,CMH,North America,Columbus,227 ms,0 kB/s
-204.110.223.229,80,true,CMH,North America,Columbus,268 ms,0 kB/s
-18.189.94.250,443,true,CMH,North America,Columbus,249 ms,0 kB/s
-13.229.159.215,443,true,SIN,Asia Pacific,Singapore,105 ms,0 kB/s
+129.146.46.164,443,true,LAX,North America,Los Angeles,273 ms,5700 kB/s
+141.144.197.111,443,true,AMS,Europe,Amsterdam,267 ms,4575 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,303 ms,3938 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,242 ms,3561 kB/s
+132.226.31.178,443,true,LAX,North America,Los Angeles,254 ms,3371 kB/s
+129.146.168.102,443,true,LAX,North America,Los Angeles,250 ms,3199 kB/s
+143.47.243.144,2053,true,LHR,Europe,London,241 ms,3116 kB/s
+141.148.229.106,443,true,AMS,Europe,Amsterdam,303 ms,3084 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,268 ms,3074 kB/s
