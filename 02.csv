@@ -1,7 +1,7 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-99.83.209.185,443,true,IAD,North America,Ashburn,104 ms,9600 kB/s
-13.53.81.150,2083,true,HEL,Europe,Helsinki,196 ms,5977 kB/s
-129.146.46.164,443,true,LAX,North America,Los Angeles,273 ms,5700 kB/s
-141.144.197.111,443,true,AMS,Europe,Amsterdam,267 ms,4575 kB/s
-103.99.179.39,443,true,LAX,North America,Los Angeles,198 ms,3791 kB/s
-91.217.139.121,8443,true,LAX,North America,Los Angeles,202 ms,3611 kB/s
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,79 ms,26581 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,173 ms,10237 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,175 ms,8622 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,193 ms,6757 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,104 ms,5729 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,303 ms,3042 kB/s
