@@ -1,5 +1,5 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 99.83.209.185,443,true,IAD,North America,Ashburn,96 ms,6168 kB/s
 204.110.221.138,80,true,YUL,North America,Montréal,254 ms,5193 kB/s
-204.110.221.48,80,true,YUL,North America,Montréal,252 ms,4911 kB/s
-204.110.221.121,80,true,YUL,North America,Montréal,250 ms,3307 kB/s
+40.233.70.7,8443,true,YYZ,North America,Toronto,249 ms,5877 kB/s
+141.144.197.111,443,true,AMS,Europe,Amsterdam,293 ms,3390 kB/s
