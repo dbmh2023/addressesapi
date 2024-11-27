@@ -1,7 +1,5 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 129.146.46.164,443,true,LAX,North America,Los Angeles,278 ms,6226 kB/s
 193.123.57.144,443,true,FRA,Europe,Frankfurt,255 ms,5296 kB/s
-89.168.83.143,8443,true,FRA,Europe,Frankfurt,302 ms,4525 kB/s
-144.21.42.133,443,true,FRA,Europe,Frankfurt,251 ms,4276 kB/s
-158.179.207.182,8443,true,ARN,Europe,Stockholm,273 ms,3762 kB/s
-84.235.169.234,443,true,AMS,Europe,Amsterdam,259 ms,3497 kB/s
+204.110.221.223,80,true,YUL,North America,Montréal,270 ms,4055 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,197 ms,3628 kB/s
