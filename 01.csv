@@ -1,7 +1,11 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-143.47.240.248,443,true,FRA,Europe,Frankfurt,248 ms,4789 kB/s
-89.168.83.143,8443,true,FRA,Europe,Frankfurt,295 ms,4263 kB/s
-141.144.197.111,443,true,AMS,Europe,Amsterdam,291 ms,4051 kB/s
-152.67.129.93,443,true,FRA,Europe,Frankfurt,255 ms,3769 kB/s
-144.21.42.133,443,true,FRA,Europe,Frankfurt,259 ms,3735 kB/s
-193.123.57.144,443,true,FRA,Europe,Frankfurt,318 ms,3163 kB/s
+193.123.81.105,443,true,CDG,Europe,Paris,170 ms,5946 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,250 ms,5624 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,256 ms,5554 kB/s
+152.67.129.93,443,true,FRA,Europe,Frankfurt,253 ms,5295 kB/s
+158.179.207.182,2053,true,ARN,Europe,Stockholm,256 ms,4541 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,301 ms,4431 kB/s
+141.144.206.159,443,true,FRA,Europe,Frankfurt,251 ms,3938 kB/s
+141.144.197.111,443,true,AMS,Europe,Amsterdam,296 ms,3707 kB/s
+130.61.170.78,443,true,FRA,Europe,Frankfurt,295 ms,3672 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,266 ms,3539 kB/s
