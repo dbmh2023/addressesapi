@@ -1,5 +1,7 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.50.173.22,8443,true,ARN,Europe,Stockholm,201 ms,9013 kB/s
-13.53.81.150,2083,true,ARN,Europe,Stockholm,204 ms,8204 kB/s
-35.167.93.200,443,true,PDX,North America,Portland,196 ms,7866 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,196 ms,7793 kB/s
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,106 ms,10586 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,206 ms,7410 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,197 ms,7386 kB/s
+35.167.93.200,443,true,PDX,North America,Portland,214 ms,5807 kB/s
+204.110.221.251,80,true,YUL,North America,Montréal,248 ms,5605 kB/s
+204.110.223.167,80,true,ORD,North America,Chicago,231 ms,5578 kB/s
