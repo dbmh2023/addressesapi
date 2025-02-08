@@ -1,15 +1,6 @@
-104.17.196.142,HKG,Asia Pacific,Hong Kong,52 ms
-104.19.209.53,HKG,Asia Pacific,Hong Kong,53 ms
-104.18.171.58,HKG,Asia Pacific,Hong Kong,53 ms
-104.17.133.95,HKG,Asia Pacific,Hong Kong,53 ms
-104.17.134.69,HKG,Asia Pacific,Hong Kong,55 ms
-172.67.9.83,FRA,Europe,Frankfurt,217 ms
-172.67.136.18,FRA,Europe,Frankfurt,218 ms
-172.67.2.45,FRA,Europe,Frankfurt,219 ms
-104.19.239.18,FRA,Europe,Frankfurt,219 ms
-104.19.236.93,FRA,Europe,Frankfurt,219 ms
-104.18.187.67,SEA,North America,Seattle,193 ms
-104.18.182.123,SEA,North America,Seattle,194 ms
-104.18.7.111,SEA,North America,Seattle,195 ms
-172.66.41.175,SEA,North America,Seattle,195 ms
-104.21.232.239,SEA,North America,Seattle,195 ms
+IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+34.209.164.163,443,443,true,SEA,North America,US,Seattle,338,9.42
+54.149.52.156,443,443,true,PDX,North America,US,Portland,404,9.42
+18.159.111.125,2053,443,true,FRA,Europe,DE,Frankfurt,440,9.41
+52.34.198.185,443,443,true,PDX,North America,US,Portland,454,9.41
+34.211.143.70,443,443,true,SEA,North America,US,Seattle,298,9.41
