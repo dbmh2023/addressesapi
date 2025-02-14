@@ -1,6 +1,1 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-34.209.164.163,443,443,true,SEA,North America,US,Seattle,338,9.42
-54.149.52.156,443,443,true,PDX,North America,US,Portland,404,9.42
-18.159.111.125,2053,443,true,FRA,Europe,DE,Frankfurt,440,9.41
-52.34.198.185,443,443,true,PDX,North America,US,Portland,454,9.41
-34.211.143.70,443,443,true,SEA,North America,US,Seattle,298,9.41
+
