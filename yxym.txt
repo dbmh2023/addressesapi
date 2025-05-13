@@ -3,6 +3,7 @@ www.visa.cn:443
 visa.com
 visa.com.tw
 visa.com.hk
+visa.com.sg
 workers.cloudflare.com:443
 pages.cloudflare.com:443
 cf.877774.xyz:443
