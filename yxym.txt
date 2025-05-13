@@ -19,6 +19,7 @@ kr.tp50000.netlib.re:50000
 us.madison.eu.org
 hr.madison.eu.org
 ip.sb
+ip.se
 www.wto.org
 malaysia.com
 www.csgo.com
