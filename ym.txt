@@ -18,7 +18,7 @@ cloudflareworkers.com:443
 kr.tp50000.netlib.re:50000
 us.madison.eu.org
 hr.madison.eu.org
-ip.se
+si.se
 ip.sb
 www.wto.org
 malaysia.com
