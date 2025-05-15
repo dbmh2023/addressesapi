@@ -1,4 +1,4 @@
-2606:4700:4700:::2053
+kr.tp50000.netlib.re:50000#🇰🇷韩国反代IP
 bestcf.top
 cdn.2020111.xyz
 cf.877774.xyz
@@ -16,7 +16,6 @@ icook.tw
 ip.sb
 iplocation.io
 japan.com
-kr.tp50000.netlib.re
 log.bpminecraft.com
 malaysia.com
 poki.com
