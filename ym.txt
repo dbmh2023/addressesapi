@@ -5,6 +5,11 @@ cf.877774.xyz
 cloudflare.cfgo.cc
 cloudflareinsights.com
 cloudflareworkers.com
+blog.cloudflare.com
+developers.cloudflare.com
+radar.cloudflare.com
+one.dash.cloudflare.com
+www.visasoutheasteurope.com
 gur.gov.ua
 icook.hk
 icook.tw
