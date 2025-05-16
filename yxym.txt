@@ -24,4 +24,11 @@ visa.com#visa🛩️全球
 visa.com.tw:2053#visa🛩️台湾
 visa.com.hk#visa🛩️香港
 visa.com.sg#visa🛩️新加坡
+blog.cloudflare.com#涌哥分享01
+developers.cloudflare.com#涌哥分享02
+radar.cloudflare.com#涌哥分享03
+one.dash.cloudflare.com#涌哥分享04
+fangqi.cloudflare.182682.xyz#wetest.vip提供维护
+fang.cf.cname.vvhan.com#uxiaohan维护
+bestcf.030101.xyz#HeroCore维护
 [2606:4700:4700::]:2053#ipv6永不失联
