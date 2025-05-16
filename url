@@ -11,3 +11,18 @@ https://raw.githubusercontent.com/ImLTHQ/edge-tunnel/main/LAX.txt
 https://raw.githubusercontent.com/ImLTHQ/edge-tunnel/main/SEA.txt
 
 https://raw.githubusercontent.com/ImLTHQ/edge-tunnel/main/SJC.txt
+
+第三方维护的优选官方IP的API
+https://ipdb.api.030101.xyz/?type=bestcf&country=true
+https://addressesapi.090227.xyz/CloudFlareYes
+https://addressesapi.090227.xyz/ip.164746.xyz
+
+第三方维护的优选反代IP的API
+https://ipdb.api.030101.xyz/?type=bestproxy&country=true
+
+更多优选内容出处https://gcore.blog.cmliussss.com/p/CloudFlare优选/
+https://cf.090227.xyz
+https://ipdb.api.030101.xyz
+https://monitor.gacjie.cn/page/cloudflare/cname.html
+https://ip.164746.xyz
+https://stock.hostmonit.com/CloudFlareYes
