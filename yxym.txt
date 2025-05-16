@@ -1,4 +1,11 @@
-kr.tp50000.netlib.re:50000#🇰🇷韩国反代IP
+kr.tp50000.netlib.re:50000#🛩️韩国反代IP
+singapore.com#🛩️移动优选1
+www.visasoutheasteurope.com:2096#🛩️移动优选
+www.visa.cn:443#visa🛩️中国大陆
+visa.com#visa🛩️全球
+visa.com.tw:2053#visa🛩️台湾
+visa.com.hk#visa🛩️香港
+visa.com.sg#visa🛩️新加坡
 ip.sb#🛩️ip.sb
 si.se#🛩️si.se
 pages.cloudflare.com:443#PP🛩️官方域名02
@@ -10,20 +17,13 @@ japan.com:443#CF优选域名07
 icook.hk:443#CF🛩️优选域名08
 icook.tw:443#CF优选域名09
 poki.com:443#Poki小游戏
-singapore.com#🛩️移动优选1
 russia.com#🛩️移动优选2
 cloudflareinsights.com:443#CF官方域名10
 cloudflareworkers.com:443#CF官方域名01
 us.madison.eu.org#🇺🇸·美国-Madison提供
 cloudflare.182682.xyz#青云志
 trojanfree.1949-10-01.top#节点落地IP为波兰
-www.visasoutheasteurope.com:2096#移动优选
 cdn.2020111.xyz:443#🛩️维测网
-www.visa.cn:443#visa🛩️中国大陆
-visa.com#visa🛩️全球
-visa.com.tw:2053#visa🛩️台湾
-visa.com.hk#visa🛩️香港
-visa.com.sg#visa🛩️新加坡
 blog.cloudflare.com#涌哥分享01
 developers.cloudflare.com#涌哥分享02
 radar.cloudflare.com#涌哥分享03
