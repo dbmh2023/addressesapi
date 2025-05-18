@@ -19,7 +19,6 @@ icook.hk:443#CF🛩️优选域名08
 icook.tw:443#CF优选域名09
 poki.com:443#Poki小游戏
 russia.com#🛩️移动优选2
-us.madison.eu.org#🇺🇸·美国-Madison提供
 trojanfree.1949-10-01.top#节点落地IP为波兰
 cdn.2020111.xyz:443#🛩️维测网
 blog.cloudflare.com#涌哥分享01
