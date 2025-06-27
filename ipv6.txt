@@ -47,4 +47,5 @@ cf.877774.xyz:443#🚀秋名山优选04
 fangqi.cloudflare.182682.xyz#wetest.vip提供维护
 fang.cf.cname.vvhan.com#uxiaohan维护
 bestcf.030101.xyz#🚀HeroCore维护
+[2606:4700:4700::]:2053#ipv6永不失联
 [2606:4700:3031:3b94:af88:869d:44d4:fb37]:443#美国IPV6
