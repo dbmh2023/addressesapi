@@ -11,7 +11,8 @@ visa.com.hk#🚫Visa香港
 visa.com.sg#🚀Visa新加坡
 www.visakorea.com#Visa官方
 www.visa.co.jp#Visa日本
-cdnjs.com#推荐优选域名
+registry.cyou#推荐优选1
+cdnjs.com#推荐优选域名2
 ip.sb#🚀ip.sb
 si.se#si.se
 time.is#🚀time.is
@@ -45,3 +46,4 @@ bestcf.030101.xyz#🚀HeroCore维护
 cloudflare.182682.xyz#群分享
 [2606:4700:28:5ad4:b94:77a4:463e:bd88]:2053#us永不失联
 [2606:4700:57:c2b6:6945:4a5c:62c4:d9de]#亚洲优选01
+
