@@ -33,7 +33,6 @@ radar.cloudflare.com#CF官方域名01
 one.dash.cloudflare.com#CF官方域名02
 pages.cloudflare.com:443#PP官方域名03
 support.cloudflare.com#CF官方域名05
-node.hubp.de#@HeroCore01
 bestcf.030101.xyz#@HeroCore02
 wto.org:443#WTO世贸组织05
 poki.com:443#Poki小游戏
@@ -50,6 +49,3 @@ cloudflare.182682.xyz#群分享
 [2606:4700:8d97:a094:96f6:c5c8:5987:9a60]:443#新加坡V62
 [2606:4700:8def:58a3:bb80:289a:3b90:c1f5]:443#新加坡V63
 [2606:4700:91bd:a1ec:77a5:be7b:4d8:d390]:443#新加坡V64
-
-
-
