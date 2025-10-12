@@ -22,9 +22,10 @@ skk.moe#skk.moe
 kr.tp50000.netlib.re:50000#韩国反代IP
 singapore.com#移动优选1
 www.visasoutheasteurope.com:2096#移动优选
-saas.sin.fan#三网优选
-cf.877774.xyz:443#三网优选
-cf.tencentapp.cn#三网优选
+saas.sin.fan#三网优选01
+cf.877774.xyz:443#三网优选02
+cf.tencentapp.cn#三网优选03
+cloudflare-dl.byoip.top#三网优选04
 mfa.gov.ua#乌克兰外交部
 store.ubi.com#Ubisoft
 staticdelivery.nexusmods.com#NexusMods
@@ -49,4 +50,5 @@ cloudflare.182682.xyz#群分享
 [2606:4700:8d97:a094:96f6:c5c8:5987:9a60]:443#新加坡V62
 [2606:4700:8def:58a3:bb80:289a:3b90:c1f5]:443#新加坡V63
 [2606:4700:91bd:a1ec:77a5:be7b:4d8:d390]:443#新加坡V64
+
 
