@@ -39,7 +39,7 @@ fangqi.cloudflare.182682.xyz#wetest.vip提供维护
 fang.cf.cname.vvhan.com#uxiaohan维护
 cloudflare.182682.xyz#群分享
 [2606:4700:28:5ad4:b94:77a4:463e:bd88]:2053#us永不失联
-[2606:4700:57:c2b6:6945:4a5c:62c4:d9de]:443##HKV61
+[2606:4700:57:c2b6:6945:4a5c:62c4:d9de]:443#HKV61
 [2606:4700:57:2c4e:2cd6:fe4f:7bf1:ee45]:443#HKV62
 [2606:4700:8de7:ad15:b7de:a560:159c:6831]:443#新加坡v61
 [2606:4700:8d97:a094:96f6:c5c8:5987:9a60]:443#新加坡V62
