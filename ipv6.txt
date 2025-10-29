@@ -45,4 +45,6 @@ cloudflare.182682.xyz#群分享
 [2606:4700:8d97:a094:96f6:c5c8:5987:9a60]:443#SG-v62
 [2606:4700:8def:58a3:bb80:289a:3b90:c1f5]:443#SG-v63
 [2606:4700:91bd:a1ec:77a5:be7b:4d8:d390]:443#SG-v64
+dick.frii.site#US优选
+fuck.frii.site#US优选IP
 
