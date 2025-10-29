@@ -21,7 +21,6 @@ icook.hk:443#🚫优选域名03
 icook.tw:443#CF优选域名04
 skk.moe#skk.moe
 node.hubp.de#HeroCore
-ipjp.242625.xyz#日本
 dick.frii.site#US优选IP
 fuck.frii.site#US优选IP01
 singapore.com#移动优选1
