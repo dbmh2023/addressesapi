@@ -1,5 +1,5 @@
-openai.com#🚫优选域名00
-www.shopify.com#🚫优选域名01
+www.shopify.com#🚫优选域名00
+openai.com#🚫优选域名01
 www.udacity.com#🚫优选域名02
 cmcc.877774.xyz#🚫优选域名03
 cmcc.090227.xyz#🚫优选域名04
@@ -42,3 +42,4 @@ fangqi.cloudflare.182682.xyz#wetest.vip提供维护
 fang.cf.cname.vvhan.com#uxiaohan维护
 cloudflare.182682.xyz#群分享
 [2606:4700:28:5ad4:b94:77a4:463e:bd88]:2053#us永不失联
+
