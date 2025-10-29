@@ -1,14 +1,15 @@
 openai.com#🚫优选域名00
 www.shopify.com#🚫优选域名01
 www.udacity.com#🚫优选域名02
-deploy.workers.cloudflare.com:443#🚀Dp优选域名03
-cloudflareworkers.com:443#🚀优选域名04
+cmcc.877774.xyz#🚫优选域名03
+cmcc.090227.xyz#🚫优选域名04
 cloudflare-dns.com#🚫四个壹05
 workers.cloudflare.com:443#🚫WKR优选域名06
+deploy.workers.cloudflare.com:443#🚀Dp优选域名07
+cloudflareworkers.com:443#🚀优选域名08
 visa.com.tw:2053#Visa台湾
 visa.com.hk#🚫Visa香港
 visa.com.sg#🚀Visa新加坡
-www.visa.cn#visa中国优选
 registry.cyou#推荐域名1
 cdnjs.com#推荐域名2
 ip.sb#🚀ip.sb
@@ -19,7 +20,10 @@ japan.com:443#CF优选域名02
 icook.hk:443#🚫优选域名03
 icook.tw:443#CF优选域名04
 skk.moe#skk.moe
-kr.tp50000.netlib.re:50000#韩国反代IP
+node.hubp.de#HeroCore
+ipjp.242625.xyz#日本
+dick.frii.site#US优选IP
+fuck.frii.site#US优选IP01
 singapore.com#移动优选1
 www.visasoutheasteurope.com:2096#移动优选
 saas.sin.fan#三网优选01
@@ -39,12 +43,3 @@ fangqi.cloudflare.182682.xyz#wetest.vip提供维护
 fang.cf.cname.vvhan.com#uxiaohan维护
 cloudflare.182682.xyz#群分享
 [2606:4700:28:5ad4:b94:77a4:463e:bd88]:2053#us永不失联
-[2606:4700:57:c2b6:6945:4a5c:62c4:d9de]:443#HKV61
-[2606:4700:57:2c4e:2cd6:fe4f:7bf1:ee45]:443#HKV62
-[2606:4700:8de7:ad15:b7de:a560:159c:6831]:443#SG-v61
-[2606:4700:8d97:a094:96f6:c5c8:5987:9a60]:443#SG-v62
-[2606:4700:8def:58a3:bb80:289a:3b90:c1f5]:443#SG-v63
-[2606:4700:91bd:a1ec:77a5:be7b:4d8:d390]:443#SG-v64
-dick.frii.site#US优选
-fuck.frii.site#US优选IP
-
