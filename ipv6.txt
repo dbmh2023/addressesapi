@@ -26,8 +26,6 @@ japan.com:443#CF优选域名02
 icook.hk:443#优选域名03
 icook.tw:443#CF优选域名04
 skk.moe#skk.moe
-dick.frii.site#US优选IP
-fuck.frii.site#US优选IP01
 singapore.com#移动优选1
 www.visasoutheasteurope.com:2096#移动优选
 cloudflare-dl.byoip.top#三网优选04
