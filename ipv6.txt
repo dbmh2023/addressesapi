@@ -15,7 +15,7 @@ blog.646474.xyz#⚡优选域名
 cf.tencentapp.cn#⚡三网优选*
 fangqi.cloudflare.182682.xyz#wetest.vip提供维护
 staticdelivery.nexusmods.com#⚡NexusMods
-fang.cf.cname.vvhan.com#⚡uxiaohan维护
+hgn.cf.cname.vvhan.com#⚡uxiaohan维护
 mfa.gov.ua#乌克兰外交部
 visa.com.tw:2053#✳️Visa台湾_GB
 visa.com.hk#✳️Visa香港_GB
