@@ -1,3 +1,5 @@
+11six24.com#⚡11six24
+www.dbs.com:443#广东移动58807
 saas.sin.fan#⚡MIYU*
 node.hubp.de#⚡*HeroCore
 bestcf.030101.xyz#@HeroCore02
@@ -21,8 +23,7 @@ visa.com.tw:2053#✳️Visa台湾_GB
 visa.com.hk#✳️Visa香港_GB
 visa.com.sg#✳️Visa新加坡_GB
 fan.cloudflare.182682.xyz:443#微测网
-www.fastsoso.cn#vps789.com
-vip.cf.3666888.xyz#三网优选
+vip.cf.3666888.xyz#vps789.com
 icook.hk:443#icook.hk
 [2606:4700:83b1:5b12:d0a8:2fcf:1f6a:1bdf]:443#亚洲V61_IN
 [2606:4700:83b2:755d:66dd:4e3a:1652:3ffb]:443#亚洲V62_IN
@@ -33,18 +34,15 @@ icook.hk:443#icook.hk
 23.106.154.209:9418#美国03
 singapore.com#移动优选1_US
 www.visasoutheasteurope.com:2096#移动优选2_US
-russia.com#移动优选3_US
 ip.sb#ip.sb_US
 time.is#time.is_US
 skk.moe#skk.moe_US
 japan.com:443#⚡优选域名01_US
 icook.tw:443#⚡优选域名02_US
 cloudflareworkers.com:443#⚡优选域名03
-freeyx.cloudflare88.eu.org #⚡优选域名04_US
+www.ntu.edu.sg#⚡优选域名04
 bestcf.top:443#优选域名05_US
 workers.cloudflare.com:443#WKR优选域名06_US
 deploy.workers.cloudflare.com:443#Dp优选域名07_US
-registry.cyou#优选域名08_US
-cdnjs.com#优选域名09_US
+cdnjs.com#优选域名08_US
 pages.cloudflare.com:443#PP官方域名11_US
-wto.org:443#WTO世贸组织12_US
