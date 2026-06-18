@@ -1,5 +1,6 @@
 11six24.com#⚡11six24
 www.dbs.com:443#广东移动58807
+www.ntu.edu.sg#⚡优选域名
 saas.sin.fan#⚡MIYU*
 node.hubp.de#⚡*HeroCore
 bestcf.030101.xyz#@HeroCore02
@@ -15,7 +16,7 @@ ct.877774.xyz:443#⚡优选域名
 cloudflare-dns.com#⚡四个壹01
 blog.646474.xyz#⚡优选域名
 cf.tencentapp.cn#⚡三网优选*
-fangqi.cloudflare.182682.xyz#wetest.vip提供维护
+cao.cloudflare.182682.xyz#wetest.vip提供维护
 staticdelivery.nexusmods.com#⚡NexusMods
 hgn.cf.cname.vvhan.com#⚡uxiaohan维护
 mfa.gov.ua#乌克兰外交部
@@ -40,8 +41,7 @@ skk.moe#skk.moe_US
 japan.com:443#⚡优选域名01_US
 icook.tw:443#⚡优选域名02_US
 cloudflareworkers.com:443#⚡优选域名03
-www.ntu.edu.sg#⚡优选域名04
-bestcf.top:443#优选域名05_US
+bestcf.top:443#优选域名04_US
 workers.cloudflare.com:443#WKR优选域名06_US
 deploy.workers.cloudflare.com:443#Dp优选域名07_US
 cdnjs.com#优选域名08_US
