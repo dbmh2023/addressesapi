@@ -25,10 +25,6 @@ visa.com.hk#✳️Visa香港_GB
 visa.com.sg#✳️Visa新加坡_GB
 fan.cloudflare.182682.xyz:443#微测网
 vip.cf.3666888.xyz#vps789.com
-icook.hk:443#icook.hk
-[2606:4700:83b1:5b12:d0a8:2fcf:1f6a:1bdf]:443#亚洲V61_IN
-[2606:4700:83b2:755d:66dd:4e3a:1652:3ffb]:443#亚洲V62_IN
-[2606:4700:83b9:46ea:f92b:72ab:446b:c9bf]:443#亚洲V63_IN
 [2606:4700:28:5ad4:b94:77a4:463e:bd88]:2053#永不失联_US
 38.105.28.191:37564#美国01  
 104.16.63.123:443#美国02
