@@ -2,7 +2,6 @@ saas.sin.fan#⚡MIYU*
 node.hubp.de#⚡*HeroCore
 openai.com#⚡openai
 cdns.doon.eu.org#⚡HK-cdns
-47.76.218.163:443#HK
 cloudflare-ip.mofashi.ltd:443#TG通知频道 honghongll
 www.cnae.top:443#CDN线路 D
 store.ubi.com:443#CDN线路 O
@@ -14,7 +13,6 @@ www.shopify.com:443#CDN线路 A
 cucc.cloudflare.seeck.cn:443#联通专用线路 Seeck
 cmcc.cloudflare.seeck.cn:443#移动专用线路 Seeck
 cf.877774.xyz:443#CDN线路 K
-172.236.154.50:443#SG
 da.mfa.gov.ua:443#TG交流群
 cdn.9889888.xyz:443#CDN线路 E
 yx.cloudflare.182682.xyz:443#CDN线路 F
