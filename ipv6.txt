@@ -10,9 +10,7 @@ store.ubi.com:443#CDN线路 O
 ctcc.cloudflare.seeck.cn:443#电信专用线路 Seeck
 www.ntu.edu.sg:443#CDN线路 B
 cf.130519.xyz:443#CDN线路 N
-43.128.21.39:443#HK
 cf.090227.xyz:443#CDN线路 Q
-103.74.192.228:443#HK
 www.shopify.com:443#CDN线路 A
 156.226.169.179:443#HK
 cucc.cloudflare.seeck.cn:443#联通专用线路 Seeck
