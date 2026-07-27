@@ -1,6 +1,6 @@
 saas.sin.fan#⚡MIYU*
 node.hubp.de#⚡*HeroCore
-decathlon.qa#⚡迪卡侬
+decathlon.qa#⚡迪卡侬_Cmin2
 cdns.doon.eu.org#⚡HK-cdns
 cloudflare-ip.mofashi.ltd:443#TG通知频道 honghongll
 www.cnae.top:443#CDN线路 D
