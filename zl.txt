@@ -1,0 +1,15 @@
+WebRTC DNS泄漏测试地址5
+https://browserleaks.com/webrtc  #1
+https://dnsleaktest.com/  #1
+https://ipleak.net/  #2
+https://ipleak.com/  #3
+https://ipcheck.ing/#/   #4
+注意:V2raynG要打开启用本地DNS和启用虚拟DNS 避免DNS泄露
+
+常用源码地址
+https://github.com/1345695/edcloudwasm
+https://github.com/jacobax/snippets
+https://gist.github.com/fefz/7b66d698d0031ae95abc8426138cbc38
+bpsub源码汇聚
+Cloudflare Snippets 订阅生成器
+https://bp.sub.cmliussss.net/
