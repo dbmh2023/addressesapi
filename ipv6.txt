@@ -16,4 +16,3 @@ cf.877774.xyz:443#CDN线路 K
 da.mfa.gov.ua:443#TG交流群
 cdn.9889888.xyz:443#CDN线路 E
 yx.cloudflare.182682.xyz:443#CDN线路 F
-[2606:4700:28:5ad4:b94:77a4:463e:bd88]:2053#永不失联_US
