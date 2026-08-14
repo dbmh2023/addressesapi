@@ -8,7 +8,8 @@ www.cortera.com
 cdns.doon.eu.org
 allot.com
 thewoodflooringhub.co.uk
-cf6.danfeng.eu.org:2087
+cf5.danfeng.eu.org:8443
+cf6.danfeng.eu.org:8443
 cf.877774.xyz
 cloudflare-dns.com
 pages.cloudflare.com
